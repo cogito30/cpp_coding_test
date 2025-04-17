@@ -11,10 +11,17 @@ c++을 사용하여 algorithm 문제를 풀이
 
 ## 기간
 #### [Programmers](https://school.programmers.co.kr/learn/challenges?order=recent)
-- Lv0(2025.04.10-)
-- Lv1(2025.04.15-)
-- Lv2(2025.)
-- Lv3(2025.)
+- Lv0(2025.04.10-): 9/240문제
+- Lv1(2025.04.15-): 1/86문제
+- Lv2(2025.): 0/115문제
+- Lv3(2025.): 0/81문제
+
+#### [Softeer](https://softeer.ai/practice)
+- Lv1(): 0/11문제
+- Lv2(): 0/16문제
+- Lv3(): 0/42문제
+- Lv4(): 0/16문제
+- Lv5(): 0/8문제
 
 #### [Solved.ac](https://solved.ac/class)
 - Class1()
@@ -33,8 +40,9 @@ c++을 사용하여 algorithm 문제를 풀이
 - D7()
 
 #### [LeetCode](https://leetcode.com/problemset/)
-- 
-
+- Easy()
+- Medium()
+- Hard()
 
 ## How To Use
 1) repository 다운받기
