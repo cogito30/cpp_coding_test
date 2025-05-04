@@ -24,7 +24,7 @@ c++을 사용하여 algorithm 문제를 풀이
 - Lv5(): 0/8문제
 
 #### [Solved.ac](https://solved.ac/class)
-- 새싹(): 0/37문제
+- 새싹(): 0/38문제
 - Class1(): 0/36문제
 - Class2(): 0/40문제
 - Class3(): 0/48문제
