@@ -24,11 +24,13 @@ c++을 사용하여 algorithm 문제를 풀이
 - Lv5(): 0/8문제
 
 #### [Solved.ac](https://solved.ac/class)
-- Class1()
-- Class2()
-- Class3()
-- Class4()
-- Class5()
+- 새싹(): 0/37문제
+- Class1(): 0/36문제
+- Class2(): 0/40문제
+- Class3(): 0/48문제
+- Class4(): 0/48문제
+- Class5(): 0/48문제
+- Class6(): 0/48문제
 
 #### [SW Expert Academy](https://swexpertacademy.com/main/main.do)
 - D1()
