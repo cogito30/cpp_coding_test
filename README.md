@@ -17,13 +17,6 @@ c++을 사용하여 algorithm 문제를 풀이
 - Lv2(2025.): 0/115문제
 - Lv3(2025.): 0/81문제
 
-#### [Softeer](https://softeer.ai/practice)
-- Lv1(): 0/11문제
-- Lv2(): 0/16문제
-- Lv3(): 0/42문제
-- Lv4(): 0/16문제
-- Lv5(): 0/8문제
-
 #### [Solved.ac](https://solved.ac/class)
 - 새싹(): 0/38문제
 - Class1(): 0/36문제
