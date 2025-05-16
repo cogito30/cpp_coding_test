@@ -12,11 +12,12 @@ c++을 사용하여 algorithm 문제를 풀이
 
 ## How To Study
 1) input && output
-2) data structure
+2) string method
+3) data structure
 - array, linked list, stack, queue, deque, map(hash), set, heap, tree, graph
-3) algorithm
+4) algorithm
 - math, sort, binary search, greedy, implementation, recursion, graph search(BFS/DFS), two pointer
-4) solved the problem
+5) solved the problem
 - check space/time complexity
 - check efficiency
 - check general case and edge case
