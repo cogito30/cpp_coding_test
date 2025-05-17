@@ -27,10 +27,10 @@
 | 23  | [별찍기-1](https://www.acmicpc.net/problem/2438) | [풀이]() | 이중 반복문 |    
 | 24  | [A+B-4](https://www.acmicpc.net/problem/10951) | [풀이]() | 반복문, cin.eof() |    
 | 25  | [빠른 A+B](https://www.acmicpc.net/problem/15552) | [풀이]() | 입출력 심화 |    
-| 26  | [X보다 작은 수](https://www.acmicpc.net/problem/10871) | [풀이]() |  |    
-| 27  | [개수 세기](https://www.acmicpc.net/problem/10807) | [풀이]() |  |    
-| 28  | [과제 안 내신 분..?](https://www.acmicpc.net/problem/5597) | [풀이]() |  |    
-| 29  | [행렬 덧셈](https://www.acmicpc.net/problem/2738) | [풀이]() |  |    
+| 26  | [X보다 작은 수](https://www.acmicpc.net/problem/10871) | [풀이]() | 연산자, 배열, 동적할당 |    
+| 27  | [개수 세기](https://www.acmicpc.net/problem/10807) | [풀이]() | 반복문, 배열, 연산자 |    
+| 28  | [과제 안 내신 분..?](https://www.acmicpc.net/problem/5597) | [풀이]() | 반복문, 배열, 연산자 |    
+| 29  | [행렬 덧셈](https://www.acmicpc.net/problem/2738) | [풀이]() | 반복문, 배열, 연산자 |    
 | 30  | [아스키 코드](https://www.acmicpc.net/problem/11654) | [풀이]() |  |    
 | 31  | [단어 길이 재기](https://www.acmicpc.net/problem/2743) | [풀이]() |  |    
 | 32  | [대소문자 바꾸기](https://www.acmicpc.net/problem/2744) | [풀이]() |  |    
