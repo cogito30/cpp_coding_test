@@ -3,15 +3,15 @@
 | 문제번호 |  문제  | 풀이(코드) | 유형 |    
 |  :---:  | :---: |   :---:  |   :---:  |    
 | 1  | [직각삼각형](https://www.acmicpc.net/problem/4153) | [풀이]() | 최대값, 제곱 |    
-| 2  | [웹컴 키트](https://www.acmicpc.net/problem/30802) | [풀이]() |  |    
-| 3  | [소수 찾기](https://www.acmicpc.net/problem/1978) | [풀이]() |  |    
-| 4  | [분해합](https://www.acmicpc.net/problem/2231) | [풀이]() |  |    
-| 5  | [벌집](https://www.acmicpc.net/problem/2292) | [풀이]() |  |    
-| 6  | [블랙잭](https://www.acmicpc.net/problem/2798) | [풀이]() |  |    
-| 7  | [Hashing](https://www.acmicpc.net/problem/15829) | [풀이]() |  |    
-| 8  | [팰린드롬수](https://www.acmicpc.net/problem/1259) | [풀이]() |  |    
-| 9  | [평균](https://www.acmicpc.net/problem/1546) | [풀이]() |  |    
-| 10  | [최대공약수와 최소공배수](https://www.acmicpc.net/problem/2609) | [풀이]() |  |    
+| 2  | [웹컴 키트](https://www.acmicpc.net/problem/30802) | [풀이]() | 연산자, 제어문 |    
+| 3  | *[소수 찾기](https://www.acmicpc.net/problem/1978) | [풀이]() | 소수 |    
+| 4  | *[분해합](https://www.acmicpc.net/problem/2231) | [풀이]() | 브루트포스 |    
+| 5  | [벌집](https://www.acmicpc.net/problem/2292) | [풀이]() | 수학(규칙 찾기) |    
+| 6  | [블랙잭](https://www.acmicpc.net/problem/2798) | [풀이]() | 삼중 반복문 |    
+| 7  | **[Hashing](https://www.acmicpc.net/problem/15829) | [풀이]() | 모듈러 연산, 자료형 범위 |    
+| 8  | [팰린드롬수](https://www.acmicpc.net/problem/1259) | [풀이]() | 문자열, 반복문 |    
+| 9  | [평균](https://www.acmicpc.net/problem/1546) | [풀이]() | 자료형 범위, 배열, 연산자 순서 |    
+| 10  | *[최대공약수와 최소공배수](https://www.acmicpc.net/problem/2609) | [풀이]() | gcd, 유클리드 호제법 |    
 | 11  | [부녀회장이 될테야](https://www.acmicpc.net/problem/2775) | [풀이]() |  |    
 | 12  | [달팽이는 올라가고 싶다](https://www.acmicpc.net/problem/2869) | [풀이]() |  |    
 | 13  | [수 정렬하기 3](https://www.acmicpc.net/problem/10989) | [풀이]() |  |    
