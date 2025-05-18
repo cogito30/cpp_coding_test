@@ -2,56 +2,56 @@
 
 | 문제번호 |  문제  | 풀이(코드) |  유형  |    
 |  :---:  | :---: |  :---:  |  :---:  |  |    
-|  1  | [중복된 숫자 개수]() | [풀이]() |  |    
-|  2  | [머쓱이보다 키 큰 사람]() | [풀이]() |  |    
-|  3  | [두 수의 합 구하기]() | [풀이]() |  |    
-|  4  | [두 수의 차 구하기]() | [풀이]() |  |    
-|  5  | [두 수의 곱 구하기]() | [풀이]() |  |    
-|  6  | [몫 구하기]() | [풀이]() |  |    
-|  7  | [두 수의 나눗셈]() | [풀이]() |  |    
-|  8  | [숫자 비교하기]() | [풀이]() |  |    
-|  9  | [분수의 덧셈]() | [풀이]() |  |    
-|  10  | [배열 두 배 만들기]() | [풀이]() |  |    
-|  11  | [나머지 구하기]() | [풀이]() |  |    
-|  12  | [중앙값 구하기]() | [풀이]() |  |    
-|  13  | [최빈값 구하기]() | [풀이]() |  |    
-|  14  | [짝수는 싫어요]() | [풀이]() |  |    
-|  15  | [피자 나눠 먹기 (1)]() | [풀이]() |  |    
-|  16  | [피자 나눠 먹기 (2)]() | [풀이]() |  |    
-|  17  | [피자 나눠 먹기 (3)]() | [풀이]() |  |    
-|  18  | [배열의 평균값]() | [풀이]() |  |    
-|  19  | [옷가게 할인 받기]() | [풀이]() |  |    
-|  20  | [아이스 아메리카노]() | [풀이]() |  |    
-|  21  | [나이 출력]() | [풀이]() |  |    
-|  22  | [배열 뒤집기]() | [풀이]() |  |    
-|  23  | [뒤집힌 문자열]() | [풀이]() |  |    
-|  24  | [직각삼각형 출력하기]() | [풀이]() |  |    
-|  25  | [짝수 홀수 개수]() | [풀이]() |  |    
-|  26  | [문자 반복 출력하기]() | [풀이]() |  |    
-|  27  | [특정 문자 제거하기]() | [풀이]() |  |    
-|  28  | [각도기]() | [풀이]() |  |    
-|  29  | [양꼬치]() | [풀이]() |  |    
-|  30  | [짝수의 합]() | [풀이]() |  |    
-|  31  | [배열 자르기]() | [풀이]() |  |    
-|  32  | [외계행성의 나이]() | [풀이]() |  |    
-|  33  | [진료순서 정하기]() | [풀이]() |  |    
-|  34  | [순서쌍의 개수]() | [풀이]() |  |    
-|  35  | [개미 군단]() | [풀이]() |  |    
-|  36  | [모스 부호 (1)]() | [풀이]() |  |    
-|  37  | [가위 바위 보]() | [풀이]() |  |    
-|  38  | [구슬을 나누는 경우의 수]() | [풀이]() |  |    
-|  39  | [점의 위치 구하기]() | [풀이]() |  |    
-|  40  | [2차원으로 만들기]() | [풀이]() |  |    
-|  41  | [공 던지기]() | [풀이]() |  |    
-|  42  | [배열 회전시키기]() | [풀이]() |  |    
-|  43  | [주사위의 개수]() | [풀이]() |  |    
-|  44  | [합성수 찾기]() | [풀이]() |  |    
-|  45  | [최댓값 만들기(1)]() | [풀이]() |  |    
-|  46  | [팩토리얼]() | [풀이]() |  |    
-|  47  | [모음제거]() | [풀이]() |  |    
-|  48  | [문자열 정렬하기 (1)]() | [풀이]() |  |    
-|  49  | [숨어있는 숫자의 덧셈 (1)]() | [풀이]() |  |    
-|  50  | [소인수분해]() | [풀이]() |  |    
+|  1  | [중복된 숫자 개수](https://school.programmers.co.kr/learn/courses/30/lessons/120583) | [풀이]() |  |    
+|  2  | [머쓱이보다 키 큰 사람](https://school.programmers.co.kr/learn/courses/30/lessons/120585) | [풀이]() |  |    
+|  3  | [두 수의 합 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/120802) | [풀이]() |  |    
+|  4  | [두 수의 차 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/120803) | [풀이]() |  |    
+|  5  | [두 수의 곱 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/120804) | [풀이]() |  |    
+|  6  | [몫 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/120805) | [풀이]() |  |    
+|  7  | [두 수의 나눗셈](https://school.programmers.co.kr/learn/courses/30/lessons/120806) | [풀이]() |  |    
+|  8  | [숫자 비교하기](https://school.programmers.co.kr/learn/courses/30/lessons/120807) | [풀이]() |  |    
+|  9  | [분수의 덧셈](https://school.programmers.co.kr/learn/courses/30/lessons/120808) | [풀이]() |  |    
+|  10  | [배열 두 배 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/120809) | [풀이]() |  |    
+|  11  | [나머지 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/120810) | [풀이]() |  |    
+|  12  | [중앙값 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/120811) | [풀이]() |  |    
+|  13  | [최빈값 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/120812) | [풀이]() |  |    
+|  14  | [짝수는 싫어요](https://school.programmers.co.kr/learn/courses/30/lessons/120813) | [풀이]() |  |    
+|  15  | [피자 나눠 먹기 (1)](https://school.programmers.co.kr/learn/courses/30/lessons/120814) | [풀이]() |  |    
+|  16  | [피자 나눠 먹기 (2)](https://school.programmers.co.kr/learn/courses/30/lessons/120815) | [풀이]() |  |    
+|  17  | [피자 나눠 먹기 (3)](https://school.programmers.co.kr/learn/courses/30/lessons/120816) | [풀이]() |  |    
+|  18  | [배열의 평균값](https://school.programmers.co.kr/learn/courses/30/lessons/120817) | [풀이]() |  |    
+|  19  | [옷가게 할인 받기](https://school.programmers.co.kr/learn/courses/30/lessons/120818) | [풀이]() |  |    
+|  20  | [아이스 아메리카노](https://school.programmers.co.kr/learn/courses/30/lessons/120819) | [풀이]() |  |    
+|  21  | [나이 출력](https://school.programmers.co.kr/learn/courses/30/lessons/120820) | [풀이]() |  |    
+|  22  | [배열 뒤집기](https://school.programmers.co.kr/learn/courses/30/lessons/120821) | [풀이]() |  |    
+|  23  | [뒤집힌 문자열](https://school.programmers.co.kr/learn/courses/30/lessons/120822) | [풀이]() |  |    
+|  24  | [직각삼각형 출력하기](https://school.programmers.co.kr/learn/courses/30/lessons/120823) | [풀이]() |  |    
+|  25  | [짝수 홀수 개수](https://school.programmers.co.kr/learn/courses/30/lessons/120824) | [풀이]() |  |    
+|  26  | [문자 반복 출력하기](https://school.programmers.co.kr/learn/courses/30/lessons/120825) | [풀이]() |  |    
+|  27  | [특정 문자 제거하기](https://school.programmers.co.kr/learn/courses/30/lessons/120826) | [풀이]() |  |    
+|  28  | [각도기](https://school.programmers.co.kr/learn/courses/30/lessons/120829) | [풀이]() |  |    
+|  29  | [양꼬치](https://school.programmers.co.kr/learn/courses/30/lessons/120830) | [풀이]() |  |    
+|  30  | [짝수의 합](https://school.programmers.co.kr/learn/courses/30/lessons/120831) | [풀이]() |  |    
+|  31  | [배열 자르기](https://school.programmers.co.kr/learn/courses/30/lessons/120833) | [풀이]() |  |    
+|  32  | [외계행성의 나이](https://school.programmers.co.kr/learn/courses/30/lessons/120834) | [풀이]() |  |    
+|  33  | [진료순서 정하기](https://school.programmers.co.kr/learn/courses/30/lessons/120835) | [풀이]() |  |    
+|  34  | [순서쌍의 개수](https://school.programmers.co.kr/learn/courses/30/lessons/120836) | [풀이]() |  |    
+|  35  | [개미 군단](https://school.programmers.co.kr/learn/courses/30/lessons/120837) | [풀이]() |  |    
+|  36  | [모스 부호 (1)](https://school.programmers.co.kr/learn/courses/30/lessons/120838) | [풀이]() |  |    
+|  37  | [가위 바위 보](https://school.programmers.co.kr/learn/courses/30/lessons/120839) | [풀이]() |  |    
+|  38  | [구슬을 나누는 경우의 수](https://school.programmers.co.kr/learn/courses/30/lessons/120840) | [풀이]() |  |    
+|  39  | [점의 위치 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/120841) | [풀이]() |  |    
+|  40  | [2차원으로 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/120842) | [풀이]() |  |    
+|  41  | [공 던지기](https://school.programmers.co.kr/learn/courses/30/lessons/120843) | [풀이]() |  |    
+|  42  | [배열 회전시키기](https://school.programmers.co.kr/learn/courses/30/lessons/120844) | [풀이]() |  |    
+|  43  | [주사위의 개수](https://school.programmers.co.kr/learn/courses/30/lessons/120845) | [풀이]() |  |    
+|  44  | [합성수 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/120846) | [풀이]() |  |    
+|  45  | [최댓값 만들기(1)](https://school.programmers.co.kr/learn/courses/30/lessons/120847) | [풀이]() |  |    
+|  46  | [팩토리얼](https://school.programmers.co.kr/learn/courses/30/lessons/120848) | [풀이]() |  |    
+|  47  | [모음제거](https://school.programmers.co.kr/learn/courses/30/lessons/120849) | [풀이]() |  |    
+|  48  | [문자열 정렬하기 (1)](https://school.programmers.co.kr/learn/courses/30/lessons/120850) | [풀이]() |  |    
+|  49  | [숨어있는 숫자의 덧셈 (1)](https://school.programmers.co.kr/learn/courses/30/lessons/120851) | [풀이]() |  |    
+|  50  | [소인수분해](https://school.programmers.co.kr/learn/courses/30/lessons/120852) | [풀이]() |  |    
 |  51  | [컨트롤 제트]() | [풀이]() |  |    
 |  52  | [배열 원소의 길이]() | [풀이]() |  |    
 |  53  | [직사각형 넓이 구하기]() | [풀이]() |  |    
