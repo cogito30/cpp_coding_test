@@ -3,7 +3,7 @@
 | 문제번호 |  문제  | 풀이(코드) | 유형 |    
 |  :---:  | :---: |  :---:  | :---:  |    
 |  1  | [브라이언의 고민](https://school.programmers.co.kr/learn/courses/30/lessons/1830) | [풀이]() |  |    
-|  2  | [보행자 천국]() | [풀이]() |  |    
+|  2  | [보행자 천국](https://school.programmers.co.kr/learn/courses/30/lessons/1832) | [풀이]() |  |    
 |  3  | [캠핑]() | [풀이]() |  |    
 |  4  | [리틀 프렌즈 사천성]() | [풀이]() |  |    
 |  5  | [GPS]() | [풀이]() |  |    
