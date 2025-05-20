@@ -2,12 +2,12 @@
 
 | 문제번호 |  문제  | 풀이(코드) | 유형 |    
 |  :---:  | :---: |   :---:  |   :---:  |    
-| 1  | [집합](https://www.acmicpc.net/problem/11723) | [풀이]() |  |    
+| 1  | **[집합](https://www.acmicpc.net/problem/11723) | [풀이]() | 비트마스크 |    
 | 2  | [나는야 포켓몬 마스터 이다솜](https://www.acmicpc.net/problem/1620) | [풀이]() |  |    
-| 3  | [듣보잡](https://www.acmicpc.net/problem/1764) | [풀이]() |  |    
-| 4  | [동전 0](https://www.acmicpc.net/problem/11047) | [풀이]() |  |    
-| 5  | [ATM](https://www.acmicpc.net/problem/11399) | [풀이]() |  |    
-| 6  | [비밀번호 찾기](https://www.acmicpc.net/problem/17219) | [풀이]() |  |    
+| 3  | [듣보잡](https://www.acmicpc.net/problem/1764) | [풀이]() | 맵, 정렬, 배열 |    
+| 4  | [동전 0](https://www.acmicpc.net/problem/11047) | [풀이]() | 그리디 |    
+| 5  | [ATM](https://www.acmicpc.net/problem/11399) | [풀이]() | 정렬, 배열 |    
+| 6  | [비밀번호 찾기](https://www.acmicpc.net/problem/17219) | [풀이]() | 해시 |    
 | 7  | [피보나치 함수](https://www.acmicpc.net/problem/1003) | [풀이]() |  |    
 | 8  | [1로 만들기](https://www.acmicpc.net/problem/1463) | [풀이]() |  |    
 | 9  | [계단 오르기](https://www.acmicpc.net/problem/2579) | [풀이]() |  |    
