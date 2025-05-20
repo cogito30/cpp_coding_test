@@ -3,7 +3,7 @@
 | 문제번호 |  문제  | 풀이(코드) | 유형 |    
 |  :---:  | :---: |   :---:  |   :---:  |    
 | 1  | **[집합](https://www.acmicpc.net/problem/11723) | [풀이]() | 비트마스크 |    
-| 2  | [나는야 포켓몬 마스터 이다솜](https://www.acmicpc.net/problem/1620) | [풀이]() |  |    
+| 2  | [나는야 포켓몬 마스터 이다솜](https://www.acmicpc.net/problem/1620) | [풀이]() | 해시 |    
 | 3  | [듣보잡](https://www.acmicpc.net/problem/1764) | [풀이]() | 맵, 정렬, 배열 |    
 | 4  | [동전 0](https://www.acmicpc.net/problem/11047) | [풀이]() | 그리디 |    
 | 5  | [ATM](https://www.acmicpc.net/problem/11399) | [풀이]() | 정렬, 배열 |    
@@ -16,7 +16,7 @@
 | 12  | [패션왕 신해빈](https://www.acmicpc.net/problem/9375) | [풀이]() |  |    
 | 13  | [파도반 수열](https://www.acmicpc.net/problem/9461) | [풀이]() |  |    
 | 14  | [구간 합 구하기 4](https://www.acmicpc.net/problem/11659) | [풀이]() |  |    
-| 15  | [2 x n 타일링](https://www.acmicpc.net/problem/11726) | [풀이]() |  |    
+| 15  | [2 x n 타일링](https://www.acmicpc.net/problem/11726) | [풀이]() | DP |    
 | 16  | [2 x n 타일링 2](https://www.acmicpc.net/problem/11727) | [풀이]() |  |    
 | 17  | [Four Squares](https://www.acmicpc.net/problem/17626) | [풀이]() |  |    
 | 18  | [유기농 배추](https://www.acmicpc.net/problem/1012) | [풀이]() |  |    
