@@ -8,16 +8,16 @@
 | 4  | [동전 0](https://www.acmicpc.net/problem/11047) | [풀이]() | 그리디 |    
 | 5  | [ATM](https://www.acmicpc.net/problem/11399) | [풀이]() | 정렬, 배열 |    
 | 6  | [비밀번호 찾기](https://www.acmicpc.net/problem/17219) | [풀이]() | 해시 |    
-| 7  | [피보나치 함수](https://www.acmicpc.net/problem/1003) | [풀이]() |  |    
-| 8  | [1로 만들기](https://www.acmicpc.net/problem/1463) | [풀이]() |  |    
-| 9  | [계단 오르기](https://www.acmicpc.net/problem/2579) | [풀이]() |  |    
+| 7  | [피보나치 함수](https://www.acmicpc.net/problem/1003) | [풀이]() | DP |    
+| 8  | [1로 만들기](https://www.acmicpc.net/problem/1463) | [풀이]() | DP |    
+| 9  | [계단 오르기](https://www.acmicpc.net/problem/2579) | [풀이]() | DP |    
 | 10  | [바이러스](https://www.acmicpc.net/problem/2606) | [풀이]() |  |    
-| 11  | [1, 2, 3 더하기](https://www.acmicpc.net/problem/9095) | [풀이]() |  |    
-| 12  | [패션왕 신해빈](https://www.acmicpc.net/problem/9375) | [풀이]() |  |    
-| 13  | [파도반 수열](https://www.acmicpc.net/problem/9461) | [풀이]() |  |    
-| 14  | [구간 합 구하기 4](https://www.acmicpc.net/problem/11659) | [풀이]() |  |    
+| 11  | [1, 2, 3 더하기](https://www.acmicpc.net/problem/9095) | [풀이]() | DP |    
+| 12  | [패션왕 신해빈](https://www.acmicpc.net/problem/9375) | [풀이]() | 해시 |    
+| 13  | [파도반 수열](https://www.acmicpc.net/problem/9461) | [풀이]() | DP |    
+| 14  | *[구간 합 구하기 4](https://www.acmicpc.net/problem/11659) | [풀이]() | 누적합, 범위처리 주의 |    
 | 15  | [2 x n 타일링](https://www.acmicpc.net/problem/11726) | [풀이]() | DP |    
-| 16  | [2 x n 타일링 2](https://www.acmicpc.net/problem/11727) | [풀이]() |  |    
+| 16  | [2 x n 타일링 2](https://www.acmicpc.net/problem/11727) | [풀이]() | DP |    
 | 17  | [Four Squares](https://www.acmicpc.net/problem/17626) | [풀이]() |  |    
 | 18  | [유기농 배추](https://www.acmicpc.net/problem/1012) | [풀이]() |  |    
 | 19  | [DFS와 BFS](https://www.acmicpc.net/problem/1260) | [풀이]() |  |    
