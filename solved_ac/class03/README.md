@@ -22,22 +22,22 @@
 | 18  | [유기농 배추](https://www.acmicpc.net/problem/1012) | [풀이]() |  |    
 | 19  | [DFS와 BFS](https://www.acmicpc.net/problem/1260) | [풀이]() |  |    
 | 20  | [잃어버린 괄호](https://www.acmicpc.net/problem/1541) | [풀이]() | 문자열 파싱 |    
-| 21  | [최소 힙](https://www.acmicpc.net/problem/1927) | [풀이]() |  |    
+| 21  | [최소 힙](https://www.acmicpc.net/problem/1927) | [풀이]() | priority_queue |    
 | 22  | [색종이 만들기](https://www.acmicpc.net/problem/2630) | [풀이]() |  |    
 | 23  | [나무 자르기](https://www.acmicpc.net/problem/2805) | [풀이]() |  |    
-| 24  | [최대 힙](https://www.acmicpc.net/problem/11279) | [풀이]() |  |    
+| 24  | [최대 힙](https://www.acmicpc.net/problem/11279) | [풀이]() | priority_queue |    
 | 25  | [연결 요소의 개수](https://www.acmicpc.net/problem/11724) | [풀이]() |  |    
 | 26  | [마인크래프트](https://www.acmicpc.net/problem/18111) | [풀이]() |  |    
-| 27  | [좌표 압축](https://www.acmicpc.net/problem/18870) | [풀이]() |  |    
+| 27  | *[좌표 압축](https://www.acmicpc.net/problem/18870) | [풀이]() | 정렬, 배열, 중복제거, lower_bound |    
 | 28  | [헌내기는 친구가 필요해](https://www.acmicpc.net/problem/21736) | [풀이]() |  |    
 | 29  | [과일 탕후루](https://www.acmicpc.net/problem/30804) | [풀이]() |  |    
 | 30  | [케빈 베이컨의 6단계 법칙](https://www.acmicpc.net/problem/1389) | [풀이]() |  |    
 | 31  | [숨바꼭질](https://www.acmicpc.net/problem/1697) | [풀이]() |  |    
 | 32  | [미로 탐색](https://www.acmicpc.net/problem/2178) | [풀이]() |  |    
 | 33  | [단지번호붙이기](https://www.acmicpc.net/problem/2667) | [풀이]() |  |    
-| 34  | [IOIOI](https://www.acmicpc.net/problem/5525) | [풀이]() |  |    
+| 34  | *[IOIOI](https://www.acmicpc.net/problem/5525) | [풀이]() | 문자열 파싱, 패턴찾기 |    
 | 35  | [카잉 달력](https://www.acmicpc.net/problem/6064) | [풀이]() |  |    
-| 36  | [절댓값 힙](https://www.acmicpc.net/problem/11286) | [풀이]() |  |    
+| 36  | **[절댓값 힙](https://www.acmicpc.net/problem/11286) | [풀이]() | priority_queue compare 처리 |    
 | 37  | [경로 찾기](https://www.acmicpc.net/problem/11403) | [풀이]() |  |    
 | 38  | [쉬운 최단거리](https://www.acmicpc.net/problem/14940) | [풀이]() |  |    
 | 39  | [Z](https://www.acmicpc.net/problem/1074) | [풀이]() |  |    
