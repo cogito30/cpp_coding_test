@@ -18,10 +18,10 @@
 | 14  | *[구간 합 구하기 4](https://www.acmicpc.net/problem/11659) | [풀이]() | 누적합, 범위처리 주의 |    
 | 15  | [2 x n 타일링](https://www.acmicpc.net/problem/11726) | [풀이]() | DP |    
 | 16  | [2 x n 타일링 2](https://www.acmicpc.net/problem/11727) | [풀이]() | DP |    
-| 17  | [Four Squares](https://www.acmicpc.net/problem/17626) | [풀이]() |  |    
+| 17  | **[Four Squares](https://www.acmicpc.net/problem/17626) | [풀이]() | DP |    
 | 18  | [유기농 배추](https://www.acmicpc.net/problem/1012) | [풀이]() |  |    
 | 19  | [DFS와 BFS](https://www.acmicpc.net/problem/1260) | [풀이]() |  |    
-| 20  | [잃어버린 괄호](https://www.acmicpc.net/problem/1541) | [풀이]() |  |    
+| 20  | [잃어버린 괄호](https://www.acmicpc.net/problem/1541) | [풀이]() | 문자열 파싱 |    
 | 21  | [최소 힙](https://www.acmicpc.net/problem/1927) | [풀이]() |  |    
 | 22  | [색종이 만들기](https://www.acmicpc.net/problem/2630) | [풀이]() |  |    
 | 23  | [나무 자르기](https://www.acmicpc.net/problem/2805) | [풀이]() |  |    
