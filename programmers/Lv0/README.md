@@ -22,16 +22,16 @@
 |  18  | [배열의 평균값](https://school.programmers.co.kr/learn/courses/30/lessons/120817) | [풀이]() | 반복문, 연산자 |    
 |  19  | [옷가게 할인 받기](https://school.programmers.co.kr/learn/courses/30/lessons/120818) | [풀이]() | 조건문 |    
 |  20  | [아이스 아메리카노](https://school.programmers.co.kr/learn/courses/30/lessons/120819) | [풀이]() | 배열, 연산자 |    
-|  21  | [나이 출력](https://school.programmers.co.kr/learn/courses/30/lessons/120820) | [풀이]() |  |    
-|  22  | [배열 뒤집기](https://school.programmers.co.kr/learn/courses/30/lessons/120821) | [풀이]() |  |    
-|  23  | [뒤집힌 문자열](https://school.programmers.co.kr/learn/courses/30/lessons/120822) | [풀이]() |  |    
-|  24  | [직각삼각형 출력하기](https://school.programmers.co.kr/learn/courses/30/lessons/120823) | [풀이]() |  |    
-|  25  | [짝수 홀수 개수](https://school.programmers.co.kr/learn/courses/30/lessons/120824) | [풀이]() |  |    
-|  26  | [문자 반복 출력하기](https://school.programmers.co.kr/learn/courses/30/lessons/120825) | [풀이]() |  |    
-|  27  | [특정 문자 제거하기](https://school.programmers.co.kr/learn/courses/30/lessons/120826) | [풀이]() |  |    
-|  28  | [각도기](https://school.programmers.co.kr/learn/courses/30/lessons/120829) | [풀이]() |  |    
-|  29  | [양꼬치](https://school.programmers.co.kr/learn/courses/30/lessons/120830) | [풀이]() |  |    
-|  30  | [짝수의 합](https://school.programmers.co.kr/learn/courses/30/lessons/120831) | [풀이]() |  |    
+|  21  | [나이 출력](https://school.programmers.co.kr/learn/courses/30/lessons/120820) | [풀이]() | 연산자 |    
+|  22  | [배열 뒤집기](https://school.programmers.co.kr/learn/courses/30/lessons/120821) | [풀이]() | 반복문 |    
+|  23  | [뒤집힌 문자열](https://school.programmers.co.kr/learn/courses/30/lessons/120822) | [풀이]() | 문자열 메서드 |    
+|  24  | [직각삼각형 출력하기](https://school.programmers.co.kr/learn/courses/30/lessons/120823) | [풀이]() | 이중 반복문 |    
+|  25  | [짝수 홀수 개수](https://school.programmers.co.kr/learn/courses/30/lessons/120824) | [풀이]() | 조건문, 반복문, 배열 |    
+|  26  | [문자 반복 출력하기](https://school.programmers.co.kr/learn/courses/30/lessons/120825) | [풀이]() | 이중 반복문, 문자열 |    
+|  27  | [특정 문자 제거하기](https://school.programmers.co.kr/learn/courses/30/lessons/120826) | [풀이]() | 조건문, 문자열 |    
+|  28  | [각도기](https://school.programmers.co.kr/learn/courses/30/lessons/120829) | [풀이]() | 조건문 |    
+|  29  | [양꼬치](https://school.programmers.co.kr/learn/courses/30/lessons/120830) | [풀이]() | 연산자 |    
+|  30  | [짝수의 합](https://school.programmers.co.kr/learn/courses/30/lessons/120831) | [풀이]() | 반복문, 조건문 |    
 |  31  | [배열 자르기](https://school.programmers.co.kr/learn/courses/30/lessons/120833) | [풀이]() |  |    
 |  32  | [외계행성의 나이](https://school.programmers.co.kr/learn/courses/30/lessons/120834) | [풀이]() |  |    
 |  33  | [진료순서 정하기](https://school.programmers.co.kr/learn/courses/30/lessons/120835) | [풀이]() |  |    
