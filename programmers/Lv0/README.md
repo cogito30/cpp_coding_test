@@ -2,19 +2,19 @@
 
 | 문제번호 |  문제  | 풀이(코드) |  유형  |    
 |  :---:  | :---: |  :---:  |  :---:  |  |    
-|  1  | [중복된 숫자 개수](https://school.programmers.co.kr/learn/courses/30/lessons/120583) | [풀이]() |  |    
-|  2  | [머쓱이보다 키 큰 사람](https://school.programmers.co.kr/learn/courses/30/lessons/120585) | [풀이]() |  |    
-|  3  | [두 수의 합 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/120802) | [풀이]() |  |    
-|  4  | [두 수의 차 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/120803) | [풀이]() |  |    
-|  5  | [두 수의 곱 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/120804) | [풀이]() |  |    
-|  6  | [몫 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/120805) | [풀이]() |  |    
-|  7  | [두 수의 나눗셈](https://school.programmers.co.kr/learn/courses/30/lessons/120806) | [풀이]() |  |    
-|  8  | [숫자 비교하기](https://school.programmers.co.kr/learn/courses/30/lessons/120807) | [풀이]() |  |    
-|  9  | [분수의 덧셈](https://school.programmers.co.kr/learn/courses/30/lessons/120808) | [풀이]() |  |    
-|  10  | [배열 두 배 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/120809) | [풀이]() |  |    
-|  11  | [나머지 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/120810) | [풀이]() |  |    
-|  12  | [중앙값 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/120811) | [풀이]() |  |    
-|  13  | [최빈값 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/120812) | [풀이]() |  |    
+|  1  | [중복된 숫자 개수](https://school.programmers.co.kr/learn/courses/30/lessons/120583) | [풀이]() | 조건문, 반복문 |    
+|  2  | [머쓱이보다 키 큰 사람](https://school.programmers.co.kr/learn/courses/30/lessons/120585) | [풀이]() | 반복문, 조건문, 연산자 |    
+|  3  | [두 수의 합 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/120802) | [풀이]() | 연산자 |    
+|  4  | [두 수의 차 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/120803) | [풀이]() | 연산자 |    
+|  5  | [두 수의 곱 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/120804) | [풀이]() | 연산자 |    
+|  6  | [몫 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/120805) | [풀이]() | 연산자 |    
+|  7  | [두 수의 나눗셈](https://school.programmers.co.kr/learn/courses/30/lessons/120806) | [풀이]() | 연산자 우선순위 |    
+|  8  | [숫자 비교하기](https://school.programmers.co.kr/learn/courses/30/lessons/120807) | [풀이]() | 연산자 |    
+|  9  | [분수의 덧셈](https://school.programmers.co.kr/learn/courses/30/lessons/120808) | [풀이]() | gcd, lcm |    
+|  10  | [배열 두 배 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/120809) | [풀이]() | 반복문, 배열 |    
+|  11  | [나머지 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/120810) | [풀이]() | 연산자 |    
+|  12  | [중앙값 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/120811) | [풀이]() | 정렬, 배열 |    
+|  13  | [최빈값 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/120812) | [풀이]() | 해시, 반복문 |    
 |  14  | [짝수는 싫어요](https://school.programmers.co.kr/learn/courses/30/lessons/120813) | [풀이]() |  |    
 |  15  | [피자 나눠 먹기 (1)](https://school.programmers.co.kr/learn/courses/30/lessons/120814) | [풀이]() |  |    
 |  16  | [피자 나눠 먹기 (2)](https://school.programmers.co.kr/learn/courses/30/lessons/120815) | [풀이]() |  |    
