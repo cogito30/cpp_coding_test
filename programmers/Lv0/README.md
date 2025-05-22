@@ -16,12 +16,12 @@
 |  12  | [중앙값 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/120811) | [풀이]() | 정렬, 배열 |    
 |  13  | [최빈값 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/120812) | [풀이]() | 해시, 반복문 |    
 |  14  | [짝수는 싫어요](https://school.programmers.co.kr/learn/courses/30/lessons/120813) | [풀이]() |  |    
-|  15  | [피자 나눠 먹기 (1)](https://school.programmers.co.kr/learn/courses/30/lessons/120814) | [풀이]() |  |    
-|  16  | [피자 나눠 먹기 (2)](https://school.programmers.co.kr/learn/courses/30/lessons/120815) | [풀이]() |  |    
-|  17  | [피자 나눠 먹기 (3)](https://school.programmers.co.kr/learn/courses/30/lessons/120816) | [풀이]() |  |    
-|  18  | [배열의 평균값](https://school.programmers.co.kr/learn/courses/30/lessons/120817) | [풀이]() |  |    
-|  19  | [옷가게 할인 받기](https://school.programmers.co.kr/learn/courses/30/lessons/120818) | [풀이]() |  |    
-|  20  | [아이스 아메리카노](https://school.programmers.co.kr/learn/courses/30/lessons/120819) | [풀이]() |  |    
+|  15  | [피자 나눠 먹기 (1)](https://school.programmers.co.kr/learn/courses/30/lessons/120814) | [풀이]() | 연산자, 조건문 |    
+|  16  | [피자 나눠 먹기 (2)](https://school.programmers.co.kr/learn/courses/30/lessons/120815) | [풀이]() | 연산자, 조건문 |    
+|  17  | [피자 나눠 먹기 (3)](https://school.programmers.co.kr/learn/courses/30/lessons/120816) | [풀이]() | 연산자, 조건문 |    
+|  18  | [배열의 평균값](https://school.programmers.co.kr/learn/courses/30/lessons/120817) | [풀이]() | 반복문, 연산자 |    
+|  19  | [옷가게 할인 받기](https://school.programmers.co.kr/learn/courses/30/lessons/120818) | [풀이]() | 조건문 |    
+|  20  | [아이스 아메리카노](https://school.programmers.co.kr/learn/courses/30/lessons/120819) | [풀이]() | 배열, 연산자 |    
 |  21  | [나이 출력](https://school.programmers.co.kr/learn/courses/30/lessons/120820) | [풀이]() |  |    
 |  22  | [배열 뒤집기](https://school.programmers.co.kr/learn/courses/30/lessons/120821) | [풀이]() |  |    
 |  23  | [뒤집힌 문자열](https://school.programmers.co.kr/learn/courses/30/lessons/120822) | [풀이]() |  |    
