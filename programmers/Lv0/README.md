@@ -32,11 +32,11 @@
 |  28  | [각도기](https://school.programmers.co.kr/learn/courses/30/lessons/120829) | [풀이]() | 조건문 |    
 |  29  | [양꼬치](https://school.programmers.co.kr/learn/courses/30/lessons/120830) | [풀이]() | 연산자 |    
 |  30  | [짝수의 합](https://school.programmers.co.kr/learn/courses/30/lessons/120831) | [풀이]() | 반복문, 조건문 |    
-|  31  | [배열 자르기](https://school.programmers.co.kr/learn/courses/30/lessons/120833) | [풀이]() |  |    
-|  32  | [외계행성의 나이](https://school.programmers.co.kr/learn/courses/30/lessons/120834) | [풀이]() |  |    
-|  33  | [진료순서 정하기](https://school.programmers.co.kr/learn/courses/30/lessons/120835) | [풀이]() |  |    
-|  34  | [순서쌍의 개수](https://school.programmers.co.kr/learn/courses/30/lessons/120836) | [풀이]() |  |    
-|  35  | [개미 군단](https://school.programmers.co.kr/learn/courses/30/lessons/120837) | [풀이]() |  |    
+|  31  | [배열 자르기](https://school.programmers.co.kr/learn/courses/30/lessons/120833) | [풀이]() | 반복문 |    
+|  32  | [외계행성의 나이](https://school.programmers.co.kr/learn/courses/30/lessons/120834) | [풀이]() | 문자열, 문자, 반복문 |    
+|  33  | *[진료순서 정하기](https://school.programmers.co.kr/learn/courses/30/lessons/120835) | [풀이]() | 해시, 정렬, 배열, 조건문 |    
+|  34  | [순서쌍의 개수](https://school.programmers.co.kr/learn/courses/30/lessons/120836) | [풀이]() | 반복문, 조건문 |    
+|  35  | [개미 군단](https://school.programmers.co.kr/learn/courses/30/lessons/120837) | [풀이]() | 배열, 반복문 |    
 |  36  | [모스 부호 (1)](https://school.programmers.co.kr/learn/courses/30/lessons/120838) | [풀이]() |  |    
 |  37  | [가위 바위 보](https://school.programmers.co.kr/learn/courses/30/lessons/120839) | [풀이]() |  |    
 |  38  | [구슬을 나누는 경우의 수](https://school.programmers.co.kr/learn/courses/30/lessons/120840) | [풀이]() |  |    
