@@ -212,16 +212,16 @@
 |  208  | [공배수]() | [풀이]() |  |    
 |  209  | [n의 배수]() | [풀이]() |  |    
 |  210  | [두 수의 연산값 비교하기]() | [풀이]() |  |    
-|  211  | [더 크게 합치기]() | [풀이]() |  |    
-|  212  | [문자열 곱하기]() | [풀이]() |  |    
-|  213  | [문자 리스트를 문자열로 변환하기]() | [풀이]() |  |    
-|  214  | [문자열 섞기]() | [풀이]() |  |    
-|  215  | [문자열 겹쳐쓰기]() | [풀이]() |  |    
-|  216  | [홀짝 구분하기]() | [풀이]() |  |    
-|  217  | [문자열 돌리기]() | [풀이]() |  |    
-|  218  | [문자열 붙여서 출력하기]() | [풀이]() |  |    
-|  219  | [덧셈식 출력하기]() | [풀이]() |  |    
-|  220  | [특수문자 출력하기]() | [풀이]() |  |    
+|  211  | [더 크게 합치기](https://school.programmers.co.kr/learn/courses/30/lessons/181939) | [풀이]() | 문자열, stoi, to_string |    
+|  212  | [문자열 곱하기](https://school.programmers.co.kr/learn/courses/30/lessons/181940) | [풀이]() | 반복문, 문자열 |    
+|  213  | [문자 리스트를 문자열로 변환하기](https://school.programmers.co.kr/learn/courses/30/lessons/181941) | [풀이]() | 문자열, 배열 |    
+|  214  | [문자열 섞기](https://school.programmers.co.kr/learn/courses/30/lessons/181942) | [풀이]() | 문자열 |    
+|  215  | [문자열 겹쳐쓰기](https://school.programmers.co.kr/learn/courses/30/lessons/181943) | [풀이]() | 문자열, 반복문, 문자열 메서드 |    
+|  216  | [홀짝 구분하기](https://school.programmers.co.kr/learn/courses/30/lessons/181944) | [풀이]() | 입출력, 조건문 |    
+|  217  | [문자열 돌리기](https://school.programmers.co.kr/learn/courses/30/lessons/181945) | [풀이]() | 입출력 |    
+|  218  | [문자열 붙여서 출력하기](https://school.programmers.co.kr/learn/courses/30/lessons/181946) | [풀이]() | 입출력 |    
+|  219  | [덧셈식 출력하기](https://school.programmers.co.kr/learn/courses/30/lessons/181947) | [풀이]() | 입출력 |    
+|  220  | [특수문자 출력하기](https://school.programmers.co.kr/learn/courses/30/lessons/181948) | [풀이]() | 특수문자 |    
 |  221  | [대소문자 바꿔서 출력하긴](https://school.programmers.co.kr/learn/courses/30/lessons/181949) | [풀이]() | 문자열 메서드 |    
 |  222  | [문자열 반복해서 출력하기](https://school.programmers.co.kr/learn/courses/30/lessons/181950) | [풀이]() | 반복문, 문자열 |    
 |  223  | [a와 b 출력하기](https://school.programmers.co.kr/learn/courses/30/lessons/181951) | [풀이]() | 입출력 |    
