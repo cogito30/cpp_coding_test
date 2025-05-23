@@ -42,16 +42,16 @@
 |  38  | *[구슬을 나누는 경우의 수](https://school.programmers.co.kr/learn/courses/30/lessons/120840) | [풀이]() | 순열, 조합, 자료형 범위 |    
 |  39  | [점의 위치 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/120841) | [풀이]() | 조건문 |    
 |  40  | [2차원으로 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/120842) | [풀이]() | 반복문, 2차원 배열 |    
-|  41  | [공 던지기](https://school.programmers.co.kr/learn/courses/30/lessons/120843) | [풀이]() |  |    
-|  42  | [배열 회전시키기](https://school.programmers.co.kr/learn/courses/30/lessons/120844) | [풀이]() |  |    
-|  43  | [주사위의 개수](https://school.programmers.co.kr/learn/courses/30/lessons/120845) | [풀이]() |  |    
-|  44  | [합성수 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/120846) | [풀이]() |  |    
-|  45  | [최댓값 만들기(1)](https://school.programmers.co.kr/learn/courses/30/lessons/120847) | [풀이]() |  |    
-|  46  | [팩토리얼](https://school.programmers.co.kr/learn/courses/30/lessons/120848) | [풀이]() |  |    
-|  47  | [모음제거](https://school.programmers.co.kr/learn/courses/30/lessons/120849) | [풀이]() |  |    
-|  48  | [문자열 정렬하기 (1)](https://school.programmers.co.kr/learn/courses/30/lessons/120850) | [풀이]() |  |    
-|  49  | [숨어있는 숫자의 덧셈 (1)](https://school.programmers.co.kr/learn/courses/30/lessons/120851) | [풀이]() |  |    
-|  50  | [소인수분해](https://school.programmers.co.kr/learn/courses/30/lessons/120852) | [풀이]() |  |    
+|  41  | [공 던지기](https://school.programmers.co.kr/learn/courses/30/lessons/120843) | [풀이]() | 큐 |    
+|  42  | [배열 회전시키기](https://school.programmers.co.kr/learn/courses/30/lessons/120844) | [풀이]() | 조건문, 반복문 |    
+|  43  | [주사위의 개수](https://school.programmers.co.kr/learn/courses/30/lessons/120845) | [풀이]() | 수학, 구현 |    
+|  44  | [합성수 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/120846) | [풀이]() | 약수 찾기 |    
+|  45  | [최댓값 만들기(1)](https://school.programmers.co.kr/learn/courses/30/lessons/120847) | [풀이]() | 역정렬 |    
+|  46  | [팩토리얼](https://school.programmers.co.kr/learn/courses/30/lessons/120848) | [풀이]() | 반복문, 조건문, 자료형 범위 |    
+|  47  | [모음제거](https://school.programmers.co.kr/learn/courses/30/lessons/120849) | [풀이]() | 문자열, 반복문, 조건문 |    
+|  48  | *[문자열 정렬하기 (1)](https://school.programmers.co.kr/learn/courses/30/lessons/120850) | [풀이]() | ascii, 조건문, 정렬, 반복문 |    
+|  49  | [숨어있는 숫자의 덧셈 (1)](https://school.programmers.co.kr/learn/courses/30/lessons/120851) | [풀이]() | ascii, 자료형, 반복문, 조건문 |    
+|  50  | [소인수분해](https://school.programmers.co.kr/learn/courses/30/lessons/120852) | [풀이]() | 소인수분해, 반복문, 조건문, 정렬, 중복제거 |    
 |  51  | [컨트롤 제트]() | [풀이]() |  |    
 |  52  | [배열 원소의 길이]() | [풀이]() |  |    
 |  53  | [직사각형 넓이 구하기]() | [풀이]() |  |    
@@ -142,11 +142,11 @@
 |  138  | [문장려 잘라서 정렬하기]() | [풀이]() |  |    
 |  139  | [x 사이의 개수]() | [풀이]() |  |    
 |  140  | [공백으로 구분하기 2]() | [풀이]() |  |    
-|  141  | [공백으로 구분하기 1]() | [풀이]() |  |    
-|  142  | [ad 제거하기]() | [풀이]() |  |    
-|  143  | [문자열이 몇 번 등장하는지 세기]() | [풀이]() |  |    
-|  144  | [특정 문자열로 끝나는 가장 긴 부분 문자열 찾기]() | [풀이]() |  |    
-|  145  | [특정한 문자를 대문자로 바꾸기]() | [풀이]() |  |    
+|  141  | [공백으로 구분하기 1](https://school.programmers.co.kr/learn/courses/30/lessons/181869) | [풀이]() | 문자열 공백 처리 |    
+|  142  | [ad 제거하기](https://school.programmers.co.kr/learn/courses/30/lessons/181870) | [풀이]() | 문자열 탐색, npos |    
+|  143  | [문자열이 몇 번 등장하는지 세기](https://school.programmers.co.kr/learn/courses/30/lessons/181871) | [풀이]() | 문자열 탐색, 문자열 추출 |    
+|  144  | [특정 문자열로 끝나는 가장 긴 부분 문자열 찾기]() | [풀이](https://school.programmers.co.kr/learn/courses/30/lessons/181872) | 문자열 추출, 문자열 역탐색 |    
+|  145  | [특정한 문자를 대문자로 바꾸기](https://school.programmers.co.kr/learn/courses/30/lessons/181873) | [풀이]() | 문자열 탐색, 문자열 변환 |    
 |  146  | [A 강조하기]() | [풀이]() |  |    
 |  147  | [배열에서 문장려 대소문자 변환하기]() | [풀이]() |  |    
 |  148  | [소문자로 바꾸기]() | [풀이]() |  |    
