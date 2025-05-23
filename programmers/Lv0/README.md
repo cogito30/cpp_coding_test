@@ -222,23 +222,23 @@
 |  218  | [문자열 붙여서 출력하기]() | [풀이]() |  |    
 |  219  | [덧셈식 출력하기]() | [풀이]() |  |    
 |  220  | [특수문자 출력하기]() | [풀이]() |  |    
-|  221  | [대소문자 바꿔서 출력하긴]() | [풀이]() |  |    
-|  222  | [문자열 반복해서 출력하기]() | [풀이]() |  |    
-|  223  | [a와 b 출력하기]() | [풀이]() |  |    
-|  224  | [문자열 출력하기]() | [풀이]() |  |    
-|  225  | [PCCE 기출문제 8번: 창고 정리]() | [풀이]() |  |    
-|  226  | [PCCE 기출문제 7번: 가습기]() | [풀이]() |  |    
-|  227  | [PCCE 기출문제 6번: 가채점]() | [풀이]() |  |    
-|  228  | [PCCE 기출문제 5번: 산책]() | [풀이]() |  |    
-|  229  | [PCCE 기출문제 4번: 저축]() | [풀이]() |  |    
-|  230  | [PCCE 기출문제 3번: 나이 계산]() | [풀이]() |  |    
-|  231  | [PCCE 기출문제 2번: 피타고라스의 정리]() | [풀이]() |  |    
-|  232  | [PCCE 기출문제 1번: 출력]() | [풀이]() |  |    
-|  233  | [PCCE 기출문제 8번: 닉네임 규칙]() | [풀이]() |  |    
-|  234  | [PCCE 기출문제 7번: 버스]() | [풀이]() |  |    
-|  235  | [PCCE 기출문제 6번: 물 부족]() | [풀이]() |  |    
-|  236  | [PCCE 기출문제 5번: 심폐소생술]() | [풀이]() |  |    
-|  237  | [PCCE 기출문제 4번: 병과분류]() | [풀이]() |  |    
-|  238  | [PCCE 기출문제 3번: 수 나누기]() | [풀이]() |  |    
-|  239  | [PCCE 기출문제 2번: 각도 합치기]() | [풀이]() |  |    
-|  240  | [PCCE 기출문제 1번: 문자 출력]() | [풀이]() |  |    
+|  221  | [대소문자 바꿔서 출력하긴](https://school.programmers.co.kr/learn/courses/30/lessons/181949) | [풀이]() | 문자열 메서드 |    
+|  222  | [문자열 반복해서 출력하기](https://school.programmers.co.kr/learn/courses/30/lessons/181950) | [풀이]() | 반복문, 문자열 |    
+|  223  | [a와 b 출력하기](https://school.programmers.co.kr/learn/courses/30/lessons/181951) | [풀이]() | 입출력 |    
+|  224  | [문자열 출력하기](https://school.programmers.co.kr/learn/courses/30/lessons/181952) | [풀이]() | 입출력 |    
+|  225  | [PCCE 기출문제 8번: 창고 정리](https://school.programmers.co.kr/learn/courses/30/lessons/250126) | [풀이]() | 구현 |    
+|  226  | [PCCE 기출문제 7번: 가습기](https://school.programmers.co.kr/learn/courses/30/lessons/250127) | [풀이]() | 함수 |    
+|  227  | [PCCE 기출문제 6번: 가채점](https://school.programmers.co.kr/learn/courses/30/lessons/250128) | [풀이]() | 조건문 |    
+|  228  | [PCCE 기출문제 5번: 산책](https://school.programmers.co.kr/learn/courses/30/lessons/250129) | [풀이]() | 조건문 |    
+|  229  | [PCCE 기출문제 4번: 저축](https://school.programmers.co.kr/learn/courses/30/lessons/250130) | [풀이]() | 구현 |    
+|  230  | [PCCE 기출문제 3번: 나이 계산](https://school.programmers.co.kr/learn/courses/30/lessons/250131) | [풀이]() | 조건문, 구현 |    
+|  231  | [PCCE 기출문제 2번: 피타고라스의 정리](https://school.programmers.co.kr/learn/courses/30/lessons/250132) | [풀이]() | 구현 |    
+|  232  | [PCCE 기출문제 1번: 출력](https://school.programmers.co.kr/learn/courses/30/lessons/250133) | [풀이]() | 자료형 |    
+|  233  | [PCCE 기출문제 8번: 닉네임 규칙](https://school.programmers.co.kr/learn/courses/30/lessons/340200) | [풀이]() | 반복문, 구현 |    
+|  234  | [PCCE 기출문제 7번: 버스](https://school.programmers.co.kr/learn/courses/30/lessons/340201) | [풀이]() | 함수 |    
+|  235  | [PCCE 기출문제 6번: 물 부족](https://school.programmers.co.kr/learn/courses/30/lessons/340202) | [풀이]() | 구현 |    
+|  236  | [PCCE 기출문제 5번: 심폐소생술](https://school.programmers.co.kr/learn/courses/30/lessons/340203) | [풀이]() | 반복문 |    
+|  237  | [PCCE 기출문제 4번: 병과분류](https://school.programmers.co.kr/learn/courses/30/lessons/340204) | [풀이]() | 조건문 |    
+|  238  | [PCCE 기출문제 3번: 수 나누기](https://school.programmers.co.kr/learn/courses/30/lessons/340205) | [풀이]() | 반복문 |    
+|  239  | [PCCE 기출문제 2번: 각도 합치기](https://school.programmers.co.kr/learn/courses/30/lessons/340206) | [풀이]() | 연산자 |    
+|  240  | [PCCE 기출문제 1번: 문자 출력](https://school.programmers.co.kr/learn/courses/30/lessons/340207) | [풀이]() | 문자열, 이스케이프문자열 |    
