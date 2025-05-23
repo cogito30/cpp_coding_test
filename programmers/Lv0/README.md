@@ -202,16 +202,16 @@
 |  198  | [수 조작하기 1]() | [풀이]() |  |    
 |  199  | [마지막 두 원소]() | [풀이]() |  |    
 |  200  | [이어 붙인 수]() | [풀이]() |  |    
-|  201  | [원소들의 곱과 합]() | [풀이]() |  |    
-|  202  | [주사위 게임 2]() | [풀이]() |  |    
-|  203  | [등차수열의 특정한 항만 더하기]() | [풀이]() |  |    
-|  204  | [코드 처리하기]() | [풀이]() |  |    
-|  205  | [flag에 따라 다른 값 반환하기]() | [풀이]() |  |    
-|  206  | [조건 문자열]() | [풀이]() |  |    
-|  207  | [홀짝에 따라 다른 값 반환하기]() | [풀이]() |  |    
-|  208  | [공배수]() | [풀이]() |  |    
-|  209  | [n의 배수]() | [풀이]() |  |    
-|  210  | [두 수의 연산값 비교하기]() | [풀이]() |  |    
+|  201  | [원소들의 곱과 합](https://school.programmers.co.kr/learn/courses/30/lessons/181929) | [풀이]() | 반복문, 조건문 |    
+|  202  | [주사위 게임 2](https://school.programmers.co.kr/learn/courses/30/lessons/181930) | [풀이]() | 조건문, 연산자 |    
+|  203  | [등차수열의 특정한 항만 더하기](https://school.programmers.co.kr/learn/courses/30/lessons/181931) | [풀이]() | 조건문, 반복문 |    
+|  204  | [코드 처리하기](https://school.programmers.co.kr/learn/courses/30/lessons/181932) | [풀이]() | 문자열, 조건문 |    
+|  205  | [flag에 따라 다른 값 반환하기](https://school.programmers.co.kr/learn/courses/30/lessons/181933) | [풀이]() | 조건문 |    
+|  206  | [조건 문자열](https://school.programmers.co.kr/learn/courses/30/lessons/181934) | [풀이]() | 문자열비교, 조건문 |    
+|  207  | [홀짝에 따라 다른 값 반환하기](https://school.programmers.co.kr/learn/courses/30/lessons/181935) | [풀이]() | 조건문, 반복문 |    
+|  208  | [공배수](https://school.programmers.co.kr/learn/courses/30/lessons/181936) | [풀이]() | 조건문 |    
+|  209  | [n의 배수](https://school.programmers.co.kr/learn/courses/30/lessons/181937) | [풀이]() | 연산자 |    
+|  210  | [두 수의 연산값 비교하기](https://school.programmers.co.kr/learn/courses/30/lessons/181938) | [풀이]() | 연산자 |    
 |  211  | [더 크게 합치기](https://school.programmers.co.kr/learn/courses/30/lessons/181939) | [풀이]() | 문자열, stoi, to_string |    
 |  212  | [문자열 곱하기](https://school.programmers.co.kr/learn/courses/30/lessons/181940) | [풀이]() | 반복문, 문자열 |    
 |  213  | [문자 리스트를 문자열로 변환하기](https://school.programmers.co.kr/learn/courses/30/lessons/181941) | [풀이]() | 문자열, 배열 |    
