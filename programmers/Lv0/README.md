@@ -52,16 +52,16 @@
 |  48  | *[문자열 정렬하기 (1)](https://school.programmers.co.kr/learn/courses/30/lessons/120850) | [풀이]() | ascii, 조건문, 정렬, 반복문 |    
 |  49  | [숨어있는 숫자의 덧셈 (1)](https://school.programmers.co.kr/learn/courses/30/lessons/120851) | [풀이]() | ascii, 자료형, 반복문, 조건문 |    
 |  50  | [소인수분해](https://school.programmers.co.kr/learn/courses/30/lessons/120852) | [풀이]() | 소인수분해, 반복문, 조건문, 정렬, 중복제거 |    
-|  51  | [컨트롤 제트]() | [풀이]() |  |    
-|  52  | [배열 원소의 길이]() | [풀이]() |  |    
-|  53  | [직사각형 넓이 구하기]() | [풀이]() |  |    
-|  54  | [캐릭터의 좌표]() | [풀이]() |  |    
-|  55  | [최댓값 만들기 (2)]() | [풀이]() |  |    
-|  56  | [다항식 더하기]() | [풀이]() |  |    
-|  57  | [숨어있는 숫자의 덧셈(2)]() | [풀이]() |  |    
-|  58  | [안전지대]() | [풀이]() |  |    
-|  59  | [삼각형의 완성조건 (2)]() | [풀이]() |  |    
-|  60  | [외계어 사전]() | [풀이]() |  |    
+|  51  | *[컨트롤 제트](https://school.programmers.co.kr/learn/courses/30/lessons/120853) | [풀이]() | 문자열 처리, 문자숫자 변환 |    
+|  52  | [배열 원소의 길이](https://school.programmers.co.kr/learn/courses/30/lessons/120854) | [풀이]() | 배열, 문자열 |    
+|  53  | [직사각형 넓이 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/120860) | [풀이]() | 정렬, 최대최소 |    
+|  54  | [캐릭터의 좌표](https://school.programmers.co.kr/learn/courses/30/lessons/120861) | [풀이]() | 반복문, 조건문, 배열 |    
+|  55  | [최댓값 만들기 (2)](https://school.programmers.co.kr/learn/courses/30/lessons/120862) | [풀이]() | 정렬, 최대 |    
+|  56  | [다항식 더하기](https://school.programmers.co.kr/learn/courses/30/lessons/120863) | [풀이]() |  |    
+|  57  | [숨어있는 숫자의 덧셈(2)](https://school.programmers.co.kr/learn/courses/30/lessons/120864) | [풀이]() |  |    
+|  58  | [안전지대](https://school.programmers.co.kr/learn/courses/30/lessons/120866) | [풀이]() |  |    
+|  59  | [삼각형의 완성조건 (2)](https://school.programmers.co.kr/learn/courses/30/lessons/120868) | [풀이]() |  |    
+|  60  | [외계어 사전](https://school.programmers.co.kr/learn/courses/30/lessons/120869) | [풀이]() |  |    
 |  61  | [저주의 숫자 3]() | [풀이]() |  |    
 |  62  | [평행]() | [풀이]() |  |    
 |  63  | [겹치는 선분의 길이]() | [풀이]() |  |    
