@@ -132,16 +132,16 @@
 |  128  | [배열 비교하기]() | [풀이]() |  |    
 |  129  | [배열의 길이를 2의 거듭제곱으로 만들기]() | [풀이]() |  |    
 |  130  | [무작위로 K개의 수 뽑기]() | [풀이]() |  |    
-|  131  | [배열 만들기 6]() | [풀이]() |  |    
-|  132  | [빈 배열에 추가, 삭제하기]() | [풀이]() |  |    
-|  133  | [배열의 원소만큼 추가하기]() | [풀이]() |  |    
-|  134  | [세 개의 구분자]() | [풀이]() |  |    
-|  135  | [rny_string]() | [풀이]() |  |    
-|  136  | [문자열 바꿔서 찾기]() | [풀이]() |  |    
-|  137  | [간단한 식 계산하기]() | [풀이]() |  |    
-|  138  | [문장려 잘라서 정렬하기]() | [풀이]() |  |    
-|  139  | [x 사이의 개수]() | [풀이]() |  |    
-|  140  | [공백으로 구분하기 2]() | [풀이]() |  |    
+|  131  | [배열 만들기 6](https://school.programmers.co.kr/learn/courses/30/lessons/181859) | [풀이]() | 배열 |    
+|  132  | [빈 배열에 추가, 삭제하기](https://school.programmers.co.kr/learn/courses/30/lessons/181860) | [풀이]() | 배열, erase |    
+|  133  | [배열의 원소만큼 추가하기](https://school.programmers.co.kr/learn/courses/30/lessons/181861) | [풀이]() | 배열 |    
+|  134  | [세 개의 구분자](https://school.programmers.co.kr/learn/courses/30/lessons/181862) | [풀이]() | 문자열 처리 |    
+|  135  | [rny_string](https://school.programmers.co.kr/learn/courses/30/lessons/181863) | [풀이]() | 문자열, 반복문, 조건문 |    
+|  136  | [문자열 바꿔서 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/181864) | [풀이]() | 문자열, find, string::npos |    
+|  137  | **[간단한 식 계산하기](https://school.programmers.co.kr/learn/courses/30/lessons/181865) | [풀이]() | 문자열, stoi, substr |    
+|  138  | [문자열 잘라서 정렬하기](https://school.programmers.co.kr/learn/courses/30/lessons/181866) | [풀이]() | 문자열, 반복문, 정렬 |    
+|  139  | [x 사이의 개수](https://school.programmers.co.kr/learn/courses/30/lessons/181867) | [풀이]() | 조건문, 반복문 |    
+|  140  | *[공백으로 구분하기 2](https://school.programmers.co.kr/learn/courses/30/lessons/181868) | [풀이]() | sstream, 문자열 |    
 |  141  | [공백으로 구분하기 1](https://school.programmers.co.kr/learn/courses/30/lessons/181869) | [풀이]() | 문자열 공백 처리 |    
 |  142  | [ad 제거하기](https://school.programmers.co.kr/learn/courses/30/lessons/181870) | [풀이]() | 문자열 탐색, npos |    
 |  143  | [문자열이 몇 번 등장하는지 세기](https://school.programmers.co.kr/learn/courses/30/lessons/181871) | [풀이]() | 문자열 탐색, 문자열 추출 |    
