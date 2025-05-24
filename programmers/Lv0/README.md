@@ -162,16 +162,16 @@
 |  158  | [5명씩]() | [풀이]() |  |    
 |  159  | [홀수 vs 짝수]() | [풀이]() |  |    
 |  160  | [n개 간격의 원소들]() | [풀이]() |  |    
-|  161  | [n 번쨰 원소까지]() | [풀이]() |  |    
-|  162  | [왼쪽 오른쪽]() | [풀이]() |  |    
-|  163  | [순서 바꾸기]() | [풀이]() |  |    
-|  164  | [n 번쨰 원소부터]() | [풀이]() |  |    
-|  165  | [배열 조각하기]() | [풀이]() |  |    
-|  166  | [2의 영역]() | [풀이]() |  |    
-|  167  | [배열 만들기 3]() | [풀이]() |  |    
-|  168  | [첫 번째로 나오는 음수]() | [풀이]() |  |    
-|  169  | [리스트 자르기]() | [풀이]() |  |    
-|  170  | [가까운 1 찾기]() | [풀이]() |  |    
+|  161  | [n 번쨰 원소까지](https://school.programmers.co.kr/learn/courses/30/lessons/181889) | [풀이]() | 배열 |    
+|  162  | *[왼쪽 오른쪽](https://school.programmers.co.kr/learn/courses/30/lessons/181890) | [풀이]() | 배열 인덱스 |    
+|  163  | [순서 바꾸기](https://school.programmers.co.kr/learn/courses/30/lessons/181891) | [풀이]() | 배열 |    
+|  164  | [n 번쨰 원소부터](https://school.programmers.co.kr/learn/courses/30/lessons/181892) | [풀이]() | 배열 |    
+|  165  | [배열 조각하기](https://school.programmers.co.kr/learn/courses/30/lessons/181893) | [풀이]() | 배열 메서드 |    
+|  166  | [2의 영역](https://school.programmers.co.kr/learn/courses/30/lessons/181894) | [풀이]() | 반복문, 조건문 |    
+|  167  | [배열 만들기 3](https://school.programmers.co.kr/learn/courses/30/lessons/181895) | [풀이]() | 이중반복문 |    
+|  168  | [첫 번째로 나오는 음수](https://school.programmers.co.kr/learn/courses/30/lessons/181896) | [풀이]() | 반복문, 조건문 |    
+|  169  | [리스트 자르기](https://school.programmers.co.kr/learn/courses/30/lessons/181897) | [풀이]() | 반복문 |    
+|  170  | [가까운 1 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/181898) | [풀이]() | 반복문, 조건문 |    
 |  171  | [카운트 다운](https://school.programmers.co.kr/learn/courses/30/lessons/181899) | [풀이]() | 반복문 |    
 |  172  | [글자 지우기](https://school.programmers.co.kr/learn/courses/30/lessons/181900) | [풀이]() | 반복문, 조건문 |    
 |  173  | [배열 만들기 1](https://school.programmers.co.kr/learn/courses/30/lessons/181901) | [풀이]() | 반복문, 조건문 |    
