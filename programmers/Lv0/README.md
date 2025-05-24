@@ -192,16 +192,16 @@
 |  188  | [주사위 게임 3]() | [풀이]() |  |    
 |  189  | [간단한 논리 연산]() | [풀이]() |  |    
 |  190  | [배열 만들기 4]() | [풀이]() |  |    
-|  191  | [콜라츠 수열 만들기]() | [풀이]() |  |    
-|  192  | [카운트 업]() | [풀이]() |  |    
-|  193  | [배열 만들기 2]() | [풀이]() |  |    
-|  194  | [수열과 구간 쿼리 4]() | [풀이]() |  |    
-|  195  | [수열과 구간 쿼리 2]() | [풀이]() |  |    
-|  196  | [수열과 구간 쿼리 3]() | [풀이]() |  |    
-|  197  | [수 조작하기 2]() | [풀이]() |  |    
-|  198  | [수 조작하기 1]() | [풀이]() |  |    
-|  199  | [마지막 두 원소]() | [풀이]() |  |    
-|  200  | [이어 붙인 수]() | [풀이]() |  |    
+|  191  | [콜라츠 수열 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/181919) | [풀이]() | 구현 |    
+|  192  | [카운트 업](https://school.programmers.co.kr/learn/courses/30/lessons/181920) | [풀이]() | 반복문 |    
+|  193  | [배열 만들기 2](https://school.programmers.co.kr/learn/courses/30/lessons/181921) | [풀이]() | 조건문, 반복문 |    
+|  194  | [수열과 구간 쿼리 4](https://school.programmers.co.kr/learn/courses/30/lessons/181922) | [풀이]() | 반복문, 조건문 |    
+|  195  | [수열과 구간 쿼리 2](https://school.programmers.co.kr/learn/courses/30/lessons/181923) | [풀이]() | 반복문, 조건문 |    
+|  196  | [수열과 구간 쿼리 3](https://school.programmers.co.kr/learn/courses/30/lessons/181924) | [풀이]() | 교환, 반복문 |    
+|  197  | [수 조작하기 2](https://school.programmers.co.kr/learn/courses/30/lessons/181925) | [풀이]() | 조건문 |    
+|  198  | [수 조작하기 1](https://school.programmers.co.kr/learn/courses/30/lessons/181926) | [풀이]() | 조건문 |    
+|  199  | [마지막 두 원소](https://school.programmers.co.kr/learn/courses/30/lessons/181927) | [풀이]() | 조건문, 배열 |    
+|  200  | [이어 붙인 수](https://school.programmers.co.kr/learn/courses/30/lessons/181928) | [풀이]() | 형변환(to_string, stoi), 반복문, 조건문,  |    
 |  201  | [원소들의 곱과 합](https://school.programmers.co.kr/learn/courses/30/lessons/181929) | [풀이]() | 반복문, 조건문 |    
 |  202  | [주사위 게임 2](https://school.programmers.co.kr/learn/courses/30/lessons/181930) | [풀이]() | 조건문, 연산자 |    
 |  203  | [등차수열의 특정한 항만 더하기](https://school.programmers.co.kr/learn/courses/30/lessons/181931) | [풀이]() | 조건문, 반복문 |    
