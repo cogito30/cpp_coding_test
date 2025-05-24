@@ -1,7 +1,7 @@
 # Programmers Lv0
 
 | 문제번호 |  문제  | 풀이(코드) |  유형  |    
-|  :---:  | :---: |  :---:  |  :---:  |  |    
+|  :---:  | :---: |  :---:  |  :---:  |    
 |  1  | [중복된 숫자 개수](https://school.programmers.co.kr/learn/courses/30/lessons/120583) | [풀이]() | 조건문, 반복문 |    
 |  2  | [머쓱이보다 키 큰 사람](https://school.programmers.co.kr/learn/courses/30/lessons/120585) | [풀이]() | 반복문, 조건문, 연산자 |    
 |  3  | [두 수의 합 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/120802) | [풀이]() | 연산자 |    
@@ -122,16 +122,16 @@
 |  118  | [두 수의 합]() | [풀이]() |  |    
 |  119  | [0 떼기]() | [풀이]() |  |    
 |  120  | [문자열을 정수로 변환하기]() | [풀이]() |  |    
-|  121  | [문자열 정수의 합]() | [풀이]() |  |    
-|  122  | [정수 부분]() | [풀이]() |  |    
-|  123  | [전국 대회 선발 고사]() | [풀이]() |  |    
-|  124  | [뒤에서 5등 위로]() | [풀이]() |  |    
-|  125  | [뒤에서 5등까지]() | [풀이]() |  |    
-|  126  | [배열의 길이에 따라 다른 연산하기]() | [풀이]() |  |    
-|  127  | [문장려 묶기]() | [풀이]() |  |    
-|  128  | [배열 비교하기]() | [풀이]() |  |    
-|  129  | [배열의 길이를 2의 거듭제곱으로 만들기]() | [풀이]() |  |    
-|  130  | [무작위로 K개의 수 뽑기]() | [풀이]() |  |    
+|  121  | [문자열 정수의 합](https://school.programmers.co.kr/learn/courses/30/lessons/181849) | [풀이]() |  |    
+|  122  | [정수 부분](https://school.programmers.co.kr/learn/courses/30/lessons/181850) | [풀이]() |  |    
+|  123  | [전국 대회 선발 고사](https://school.programmers.co.kr/learn/courses/30/lessons/181851) | [풀이]() |  |    
+|  124  | [뒤에서 5등 위로](https://school.programmers.co.kr/learn/courses/30/lessons/181852) | [풀이]() |  |    
+|  125  | [뒤에서 5등까지](https://school.programmers.co.kr/learn/courses/30/lessons/181853) | [풀이]() |  |    
+|  126  | [배열의 길이에 따라 다른 연산하기](https://school.programmers.co.kr/learn/courses/30/lessons/181854) | [풀이]() |  |    
+|  127  | [문자열 묶기](https://school.programmers.co.kr/learn/courses/30/lessons/181855) | [풀이]() |  |    
+|  128  | [배열 비교하기](https://school.programmers.co.kr/learn/courses/30/lessons/181856) | [풀이]() |  |    
+|  129  | [배열의 길이를 2의 거듭제곱으로 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/181857) | [풀이]() |  |    
+|  130  | [무작위로 K개의 수 뽑기](https://school.programmers.co.kr/learn/courses/30/lessons/181858) | [풀이]() |  |    
 |  131  | [배열 만들기 6](https://school.programmers.co.kr/learn/courses/30/lessons/181859) | [풀이]() | 배열 |    
 |  132  | [빈 배열에 추가, 삭제하기](https://school.programmers.co.kr/learn/courses/30/lessons/181860) | [풀이]() | 배열, erase |    
 |  133  | [배열의 원소만큼 추가하기](https://school.programmers.co.kr/learn/courses/30/lessons/181861) | [풀이]() | 배열 |    
@@ -148,7 +148,7 @@
 |  144  | [특정 문자열로 끝나는 가장 긴 부분 문자열 찾기]() | [풀이](https://school.programmers.co.kr/learn/courses/30/lessons/181872) | 문자열 추출, 문자열 역탐색 |    
 |  145  | [특정한 문자를 대문자로 바꾸기](https://school.programmers.co.kr/learn/courses/30/lessons/181873) | [풀이]() | 문자열 탐색, 문자열 변환 |    
 |  146  | [A 강조하기](https://school.programmers.co.kr/learn/courses/30/lessons/181874) | [풀이]() | 문자열처리 |    
-|  147  | [배열에서 문장려 대소문자 변환하기](https://school.programmers.co.kr/learn/courses/30/lessons/181875) | [풀이]() | 문자열, tolower, toupper |    
+|  147  | [배열에서 문장려 대소문자 변환하기](https://school.programmers.co.kr/learn/courses/30/lessons/181875) | [풀이]() | 문자열, tolower, toupper |        
 |  148  | [소문자로 바꾸기](https://school.programmers.co.kr/learn/courses/30/lessons/181876) | [풀이]() | 문자열, tolower |    
 |  149  | [대문자로 바꾸기](https://school.programmers.co.kr/learn/courses/30/lessons/181877) | [풀이]() | 문자열, toupper |    
 |  150  | [원하는 문자열 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/181878) | [풀이]() | 문자열, find |    
@@ -172,12 +172,12 @@
 |  168  | [첫 번째로 나오는 음수](https://school.programmers.co.kr/learn/courses/30/lessons/181896) | [풀이]() | 반복문, 조건문 |    
 |  169  | [리스트 자르기](https://school.programmers.co.kr/learn/courses/30/lessons/181897) | [풀이]() | 반복문 |    
 |  170  | [가까운 1 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/181898) | [풀이]() | 반복문, 조건문 |    
-|  171  | [카운트 다운](https://school.programmers.co.kr/learn/courses/30/lessons/181899) | [풀이]() | 반복문 |    
+|  171  | [카운트 다운](https://school.programmers.co.kr/learn/courses/30/lessons/181899) | [풀이]() | 반복문 |      
 |  172  | [글자 지우기](https://school.programmers.co.kr/learn/courses/30/lessons/181900) | [풀이]() | 반복문, 조건문 |    
-|  173  | [배열 만들기 1](https://school.programmers.co.kr/learn/courses/30/lessons/181901) | [풀이]() | 반복문, 조건문 |    
-|  174  | [문자 개수 세기](https://school.programmers.co.kr/learn/courses/30/lessons/181902) | [풀이]() | 배열, ASCII |    
+|  173  | [배열 만들기 1](https://school.programmers.co.kr/learn/courses/30/lessons/181901) | [풀이]() | 반복문, 조건문 |       
+|  174  | [문자 개수 세기](https://school.programmers.co.kr/learn/courses/30/lessons/181902) | [풀이]() | 배열, ASCII |       
 |  175  | [qr code](https://school.programmers.co.kr/learn/courses/30/lessons/181903) | [풀이]() | 조건문 |    
-|  176  | [세로 읽기](https://school.programmers.co.kr/learn/courses/30/lessons/181904) | [풀이]() | 문자열 인덱스 |    
+|  176  | [세로 읽기](https://school.programmers.co.kr/learn/courses/30/lessons/181904) | [풀이]() | 문자열 인덱스 |      
 |  177  | [문자열 뒤집기](https://school.programmers.co.kr/learn/courses/30/lessons/181905) | [풀이]() | 문자열 |    
 |  178  | [접두사인지 확인하기](https://school.programmers.co.kr/learn/courses/30/lessons/181906) | [풀이]() | 문자열 |    
 |  179  | [문자열의 앞의 n글자](https://school.programmers.co.kr/learn/courses/30/lessons/181907) | [풀이]() | 문자열 |    
@@ -201,8 +201,8 @@
 |  197  | [수 조작하기 2](https://school.programmers.co.kr/learn/courses/30/lessons/181925) | [풀이]() | 조건문 |    
 |  198  | [수 조작하기 1](https://school.programmers.co.kr/learn/courses/30/lessons/181926) | [풀이]() | 조건문 |    
 |  199  | [마지막 두 원소](https://school.programmers.co.kr/learn/courses/30/lessons/181927) | [풀이]() | 조건문, 배열 |    
-|  200  | [이어 붙인 수](https://school.programmers.co.kr/learn/courses/30/lessons/181928) | [풀이]() | 형변환(to_string, stoi), 반복문, 조건문,  |    
-|  201  | [원소들의 곱과 합](https://school.programmers.co.kr/learn/courses/30/lessons/181929) | [풀이]() | 반복문, 조건문 |    
+|  200  | [이어 붙인 수](https://school.programmers.co.kr/learn/courses/30/lessons/181928) | [풀이]() | 형변환(to_string, stoi), 반복문, 조건문  |    
+|  201  | [원소들의 곱과 합](https://school.programmers.co.kr/learn/courses/30/lessons/181929) | [풀이]() | 반복문, 조건문 |     
 |  202  | [주사위 게임 2](https://school.programmers.co.kr/learn/courses/30/lessons/181930) | [풀이]() | 조건문, 연산자 |    
 |  203  | [등차수열의 특정한 항만 더하기](https://school.programmers.co.kr/learn/courses/30/lessons/181931) | [풀이]() | 조건문, 반복문 |    
 |  204  | [코드 처리하기](https://school.programmers.co.kr/learn/courses/30/lessons/181932) | [풀이]() | 문자열, 조건문 |    
