@@ -152,16 +152,16 @@
 |  148  | [소문자로 바꾸기]() | [풀이]() |  |    
 |  149  | [대문자로 바꾸기]() | [풀이]() |  |    
 |  150  | [원하는 문자열 찾기]() | [풀이]() |  |    
-|  151  | [길이에 따른 연산]() | [풀이]() |  |    
-|  152  | [1로 만들기]() | [풀이]() |  |    
-|  153  | [조건에 맞게 수열 변환하기 2]() | [풀이]() |  |    
-|  154  | [조건에 맞게 수열 변환하기 1]() | [풀이]() |  |    
-|  155  | [수열과 구간 쿼리 1]() | [풀이]() |  |    
-|  156  | [n보다 커질 때까지 더하기]() | [풀이]() |  |    
-|  157  | [할 일 목록]() | [풀이]() |  |    
-|  158  | [5명씩]() | [풀이]() |  |    
-|  159  | [홀수 vs 짝수]() | [풀이]() |  |    
-|  160  | [n개 간격의 원소들]() | [풀이]() |  |    
+|  151  | [길이에 따른 연산](https://school.programmers.co.kr/learn/courses/30/lessons/181879) | [풀이]() | 조건문, 반복문 |    
+|  152  | [1로 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/181880) | [풀이]() | 반복문, 조건문 |    
+|  153  | *[조건에 맞게 수열 변환하기 2](https://school.programmers.co.kr/learn/courses/30/lessons/181881) | [풀이]() | 배열, 반복문, 조건문 |    
+|  154  | [조건에 맞게 수열 변환하기 1](https://school.programmers.co.kr/learn/courses/30/lessons/181882) | [풀이]() | 배열, 조건문 |    
+|  155  | [수열과 구간 쿼리 1](https://school.programmers.co.kr/learn/courses/30/lessons/181883) | [풀이]() | 반복문 |    
+|  156  | [n보다 커질 때까지 더하기](https://school.programmers.co.kr/learn/courses/30/lessons/181884) | [풀이]() | 반복문 |    
+|  157  | [할 일 목록](https://school.programmers.co.kr/learn/courses/30/lessons/181885) | [풀이]() | 반복문 |    
+|  158  | [5명씩](https://school.programmers.co.kr/learn/courses/30/lessons/181886) | [풀이]() | 반복문 |    
+|  159  | [홀수 vs 짝수](https://school.programmers.co.kr/learn/courses/30/lessons/181887) | [풀이]() | 반복문, 조건문 |    
+|  160  | [n개 간격의 원소들](https://school.programmers.co.kr/learn/courses/30/lessons/181888) | [풀이]() | 배열 |    
 |  161  | [n 번쨰 원소까지](https://school.programmers.co.kr/learn/courses/30/lessons/181889) | [풀이]() | 배열 |    
 |  162  | *[왼쪽 오른쪽](https://school.programmers.co.kr/learn/courses/30/lessons/181890) | [풀이]() | 배열 인덱스 |    
 |  163  | [순서 바꾸기](https://school.programmers.co.kr/learn/courses/30/lessons/181891) | [풀이]() | 배열 |    
