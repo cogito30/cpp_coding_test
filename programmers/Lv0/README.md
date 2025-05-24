@@ -182,16 +182,16 @@
 |  178  | [접두사인지 확인하기]() | [풀이]() |  |    
 |  179  | [문자열의 앞의 n글자]() | [풀이]() |  |    
 |  180  | [접미사인지 확인하기]() | [풀이]() |  |    
-|  181  | [접미사 배열]() | [풀이]() |  |    
-|  182  | [문자열의 뒤의 n글자]() | [풀이]() |  |    
-|  183  | [부분 문자열 이어 붙여 문자열 만들기]() | [풀이]() |  |    
-|  184  | [배열 만들기 5]() | [풀이]() |  |    
-|  185  | [문자열 여러 번 뒤집기]() | [풀이]() |  |    
-|  186  | [9로 나눈 나머지]() | [풀이]() |  |    
-|  187  | [글자 이어 붙여 문자열 만들기]() | [풀이]() |  |    
-|  188  | [주사위 게임 3]() | [풀이]() |  |    
-|  189  | [간단한 논리 연산]() | [풀이]() |  |    
-|  190  | [배열 만들기 4]() | [풀이]() |  |    
+|  181  | [접미사 배열](https://school.programmers.co.kr/learn/courses/30/lessons/181909) | [풀이]() | 문자열추출, 배열, 정렬 |    
+|  182  | [문자열의 뒤의 n글자](https://school.programmers.co.kr/learn/courses/30/lessons/181910) | [풀이]() | 반복문 |    
+|  183  | [부분 문자열 이어 붙여 문자열 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/181911) | [풀이]() | 이중 반복문 |    
+|  184  | [배열 만들기 5](https://school.programmers.co.kr/learn/courses/30/lessons/181912) | [풀이]() | 반복문, 문자열 추출, 형변환 |    
+|  185  | *[문자열 여러 번 뒤집기](https://school.programmers.co.kr/learn/courses/30/lessons/181913) | [풀이]() | 문자열, reverse |    
+|  186  | [9로 나눈 나머지](https://school.programmers.co.kr/learn/courses/30/lessons/181914) | [풀이]() | 반복문 |    
+|  187  | [글자 이어 붙여 문자열 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/181915) | [풀이]() | 조건문, 반복문 |    
+|  188  | [주사위 게임 3](https://school.programmers.co.kr/learn/courses/30/lessons/181916) | [풀이]() | 조건문 |    
+|  189  | [간단한 논리 연산](https://school.programmers.co.kr/learn/courses/30/lessons/181917) | [풀이]() | 연산자 |    
+|  190  | [배열 만들기 4](https://school.programmers.co.kr/learn/courses/30/lessons/181918) | [풀이]() | 구현 |    
 |  191  | [콜라츠 수열 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/181919) | [풀이]() | 구현 |    
 |  192  | [카운트 업](https://school.programmers.co.kr/learn/courses/30/lessons/181920) | [풀이]() | 반복문 |    
 |  193  | [배열 만들기 2](https://school.programmers.co.kr/learn/courses/30/lessons/181921) | [풀이]() | 조건문, 반복문 |    
