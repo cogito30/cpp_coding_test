@@ -147,11 +147,11 @@
 |  143  | [문자열이 몇 번 등장하는지 세기](https://school.programmers.co.kr/learn/courses/30/lessons/181871) | [풀이]() | 문자열 탐색, 문자열 추출 |    
 |  144  | [특정 문자열로 끝나는 가장 긴 부분 문자열 찾기]() | [풀이](https://school.programmers.co.kr/learn/courses/30/lessons/181872) | 문자열 추출, 문자열 역탐색 |    
 |  145  | [특정한 문자를 대문자로 바꾸기](https://school.programmers.co.kr/learn/courses/30/lessons/181873) | [풀이]() | 문자열 탐색, 문자열 변환 |    
-|  146  | [A 강조하기]() | [풀이]() |  |    
-|  147  | [배열에서 문장려 대소문자 변환하기]() | [풀이]() |  |    
-|  148  | [소문자로 바꾸기]() | [풀이]() |  |    
-|  149  | [대문자로 바꾸기]() | [풀이]() |  |    
-|  150  | [원하는 문자열 찾기]() | [풀이]() |  |    
+|  146  | [A 강조하기](https://school.programmers.co.kr/learn/courses/30/lessons/181874) | [풀이]() | 문자열처리 |    
+|  147  | [배열에서 문장려 대소문자 변환하기](https://school.programmers.co.kr/learn/courses/30/lessons/181875) | [풀이]() | 문자열, tolower, toupper |    
+|  148  | [소문자로 바꾸기](https://school.programmers.co.kr/learn/courses/30/lessons/181876) | [풀이]() | 문자열, tolower |    
+|  149  | [대문자로 바꾸기](https://school.programmers.co.kr/learn/courses/30/lessons/181877) | [풀이]() | 문자열, toupper |    
+|  150  | [원하는 문자열 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/181878) | [풀이]() | 문자열, find |    
 |  151  | [길이에 따른 연산](https://school.programmers.co.kr/learn/courses/30/lessons/181879) | [풀이]() | 조건문, 반복문 |    
 |  152  | [1로 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/181880) | [풀이]() | 반복문, 조건문 |    
 |  153  | *[조건에 맞게 수열 변환하기 2](https://school.programmers.co.kr/learn/courses/30/lessons/181881) | [풀이]() | 배열, 반복문, 조건문 |    
