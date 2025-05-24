@@ -172,16 +172,16 @@
 |  168  | [첫 번째로 나오는 음수]() | [풀이]() |  |    
 |  169  | [리스트 자르기]() | [풀이]() |  |    
 |  170  | [가까운 1 찾기]() | [풀이]() |  |    
-|  171  | [카운트 다운]() | [풀이]() |  |    
-|  172  | [글자 지우기]() | [풀이]() |  |    
-|  173  | [배열 만들기 1]() | [풀이]() |  |    
-|  174  | [문자 개수 세기]() | [풀이]() |  |    
-|  175  | [qr code]() | [풀이]() |  |    
-|  176  | [세로 읽기]() | [풀이]() |  |    
-|  177  | [문자열 뒤집기]() | [풀이]() |  |    
-|  178  | [접두사인지 확인하기]() | [풀이]() |  |    
-|  179  | [문자열의 앞의 n글자]() | [풀이]() |  |    
-|  180  | [접미사인지 확인하기]() | [풀이]() |  |    
+|  171  | [카운트 다운](https://school.programmers.co.kr/learn/courses/30/lessons/181899) | [풀이]() | 반복문 |    
+|  172  | [글자 지우기](https://school.programmers.co.kr/learn/courses/30/lessons/181900) | [풀이]() | 반복문, 조건문 |    
+|  173  | [배열 만들기 1](https://school.programmers.co.kr/learn/courses/30/lessons/181901) | [풀이]() | 반복문, 조건문 |    
+|  174  | [문자 개수 세기](https://school.programmers.co.kr/learn/courses/30/lessons/181902) | [풀이]() | 배열, ASCII |    
+|  175  | [qr code](https://school.programmers.co.kr/learn/courses/30/lessons/181903) | [풀이]() | 조건문 |    
+|  176  | [세로 읽기](https://school.programmers.co.kr/learn/courses/30/lessons/181904) | [풀이]() | 문자열 인덱스 |    
+|  177  | [문자열 뒤집기](https://school.programmers.co.kr/learn/courses/30/lessons/181905) | [풀이]() | 문자열 |    
+|  178  | [접두사인지 확인하기](https://school.programmers.co.kr/learn/courses/30/lessons/181906) | [풀이]() | 문자열 |    
+|  179  | [문자열의 앞의 n글자](https://school.programmers.co.kr/learn/courses/30/lessons/181907) | [풀이]() | 문자열 |    
+|  180  | [접미사인지 확인하기](https://school.programmers.co.kr/learn/courses/30/lessons/181908) | [풀이]() | 문자열 |    
 |  181  | [접미사 배열](https://school.programmers.co.kr/learn/courses/30/lessons/181909) | [풀이]() | 문자열추출, 배열, 정렬 |    
 |  182  | [문자열의 뒤의 n글자](https://school.programmers.co.kr/learn/courses/30/lessons/181910) | [풀이]() | 반복문 |    
 |  183  | [부분 문자열 이어 붙여 문자열 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/181911) | [풀이]() | 이중 반복문 |    
