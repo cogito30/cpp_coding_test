@@ -92,16 +92,16 @@
 |  88  | [자릿수 더하기]() | [풀이]() |  |    
 |  89  | [OX퀴즈]() | [풀이]() |  |    
 |  90  | [문자열안에 문자열]() | [풀이]() |  |    
-|  91  | [제곱수 판별하기]() | [풀이]() |  |    
-|  92  | [세균 증식]() | [풀이]() |  |    
-|  93  | [문자열 정렬하기 (2)]() | [풀이]() |  |    
-|  94  | [7의 개수]() | [풀이]() |  |    
-|  95  | [잘라서 배열로 저장하기]() | [풀이]() |  |    
-|  96  | [문자열 밀기]() | [풀이]() |  |    
-|  97  | [종이 자르기]() | [풀이]() |  |    
-|  98  | [연속된 수의 합]() | [풀이]() |  |    
-|  99  | [다음에 올 숫자]() | [풀이]() |  |    
-|  100  | [옹알이 (1)]() | [풀이]() |  |    
+|  91  | [제곱수 판별하기](https://school.programmers.co.kr/learn/courses/30/lessons/120909) | [풀이]() | 반복문 |    
+|  92  | [세균 증식](https://school.programmers.co.kr/learn/courses/30/lessons/120910) | [풀이]() | 반복문, 제곱 |    
+|  93  | [문자열 정렬하기 (2)](https://school.programmers.co.kr/learn/courses/30/lessons/120911) | [풀이]() | 정렬, 문자열 |    
+|  94  | [7의 개수](https://school.programmers.co.kr/learn/courses/30/lessons/120912) | [풀이]() | 반복문, 조건문 |    
+|  95  | [잘라서 배열로 저장하기](https://school.programmers.co.kr/learn/courses/30/lessons/120913) | [풀이]() | 조건문, 반복문, 문자열, substr |    
+|  96  | [문자열 밀기](https://school.programmers.co.kr/learn/courses/30/lessons/120921) | [풀이]() | 큐 |    
+|  97  | [종이 자르기](https://school.programmers.co.kr/learn/courses/30/lessons/120922) | [풀이]() | 최대, 최소, 규칙찾기 |    
+|  98  | [연속된 수의 합](https://school.programmers.co.kr/learn/courses/30/lessons/120923) | [풀이]() | 조건문, 반복문 |    
+|  99  | [다음에 올 숫자](https://school.programmers.co.kr/learn/courses/30/lessons/120924) | [풀이]() | 조건문 |    
+|  100  | [옹알이 (1)](https://school.programmers.co.kr/learn/courses/30/lessons/120956) | [풀이]() | 문자열, 반복문, 조건문, substr |    
 |  101  | [이차원 배열 대각선 순회하기](https://school.programmers.co.kr/learn/courses/30/lessons/181829) | [풀이]() | 배열, 반복문, 조건문 |    
 |  102  | [정사각형으로 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/181830) | [풀이]() | 배열, 조건문, 반복문 |    
 |  103  | [특별한 이차원 배열 2](https://school.programmers.co.kr/learn/courses/30/lessons/181831) | [풀이]() | 이중반복문, 조건문 |    
