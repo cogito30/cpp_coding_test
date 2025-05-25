@@ -112,16 +112,16 @@
 |  108  | [그림 확대]() | [풀이]() |  |    
 |  109  | [커피 심부름]() | [풀이]() |  |    
 |  110  | [날짜 비교하기]() | [풀이]() |  |    
-|  111  | [주사위 게임 1]() | [풀이]() |  |    
-|  112  | [정수 찾기]() | [풀이]() |  |    
-|  113  | [꼬리 문자열]() | [풀이]() |  |    
-|  114  | [부분 문자열]() | [풀이]() |  |    
-|  115  | [부분 문자열인지 확인하기]() | [풀이]() |  |    
-|  116  | [배열의 원소 삭제하기]() | [풀이]() |  |    
-|  117  | [문자열로 변환]() | [풀이]() |  |    
-|  118  | [두 수의 합]() | [풀이]() |  |    
-|  119  | [0 떼기]() | [풀이]() |  |    
-|  120  | [문자열을 정수로 변환하기]() | [풀이]() |  |    
+|  111  | [주사위 게임 1](https://school.programmers.co.kr/learn/courses/30/lessons/181839) | [풀이]() | 조건문 |    
+|  112  | [정수 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/181840) | [풀이]() | 반복문, 조건문 |    
+|  113  | [꼬리 문자열](https://school.programmers.co.kr/learn/courses/30/lessons/181841) | [풀이]() | 문자열, find |    
+|  114  | [부분 문자열](https://school.programmers.co.kr/learn/courses/30/lessons/181842) | [풀이]() | 문자열, find, string::npos |    
+|  115  | [부분 문자열인지 확인하기](https://school.programmers.co.kr/learn/courses/30/lessons/181843) | [풀이]() | 문자열, find |    
+|  116  | [배열의 원소 삭제하기](https://school.programmers.co.kr/learn/courses/30/lessons/181844) | [풀이]() | 해시, 배열 |    
+|  117  | [문자열로 변환](https://school.programmers.co.kr/learn/courses/30/lessons/181845) | [풀이]() | 문자열, to_string |    
+|  118  | **[두 수의 합](https://school.programmers.co.kr/learn/courses/30/lessons/181846) | [풀이]() | 문자열, 숫자 범위 |    
+|  119  | [0 떼기](https://school.programmers.co.kr/learn/courses/30/lessons/181847) | [풀이]() | 문자열, 반복문, 조건문, substr |    
+|  120  | [문자열을 정수로 변환하기](https://school.programmers.co.kr/learn/courses/30/lessons/181848) | [풀이]() | stoi |    
 |  121  | [문자열 정수의 합](https://school.programmers.co.kr/learn/courses/30/lessons/181849) | [풀이]() | 반복문 |    
 |  122  | [정수 부분](https://school.programmers.co.kr/learn/courses/30/lessons/181850) | [풀이]() | 자료형 |    
 |  123  | [전국 대회 선발 고사](https://school.programmers.co.kr/learn/courses/30/lessons/181851) | [풀이]() | 배열, 정렬, pair |    
