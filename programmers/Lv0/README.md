@@ -122,16 +122,16 @@
 |  118  | [두 수의 합]() | [풀이]() |  |    
 |  119  | [0 떼기]() | [풀이]() |  |    
 |  120  | [문자열을 정수로 변환하기]() | [풀이]() |  |    
-|  121  | [문자열 정수의 합](https://school.programmers.co.kr/learn/courses/30/lessons/181849) | [풀이]() |  |    
-|  122  | [정수 부분](https://school.programmers.co.kr/learn/courses/30/lessons/181850) | [풀이]() |  |    
-|  123  | [전국 대회 선발 고사](https://school.programmers.co.kr/learn/courses/30/lessons/181851) | [풀이]() |  |    
-|  124  | [뒤에서 5등 위로](https://school.programmers.co.kr/learn/courses/30/lessons/181852) | [풀이]() |  |    
-|  125  | [뒤에서 5등까지](https://school.programmers.co.kr/learn/courses/30/lessons/181853) | [풀이]() |  |    
-|  126  | [배열의 길이에 따라 다른 연산하기](https://school.programmers.co.kr/learn/courses/30/lessons/181854) | [풀이]() |  |    
-|  127  | [문자열 묶기](https://school.programmers.co.kr/learn/courses/30/lessons/181855) | [풀이]() |  |    
-|  128  | [배열 비교하기](https://school.programmers.co.kr/learn/courses/30/lessons/181856) | [풀이]() |  |    
-|  129  | [배열의 길이를 2의 거듭제곱으로 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/181857) | [풀이]() |  |    
-|  130  | [무작위로 K개의 수 뽑기](https://school.programmers.co.kr/learn/courses/30/lessons/181858) | [풀이]() |  |    
+|  121  | [문자열 정수의 합](https://school.programmers.co.kr/learn/courses/30/lessons/181849) | [풀이]() | 반복문 |    
+|  122  | [정수 부분](https://school.programmers.co.kr/learn/courses/30/lessons/181850) | [풀이]() | 자료형 |    
+|  123  | [전국 대회 선발 고사](https://school.programmers.co.kr/learn/courses/30/lessons/181851) | [풀이]() | 배열, 정렬, pair |    
+|  124  | [뒤에서 5등 위로](https://school.programmers.co.kr/learn/courses/30/lessons/181852) | [풀이]() | 정렬, 반복문, 배열 |    
+|  125  | [뒤에서 5등까지](https://school.programmers.co.kr/learn/courses/30/lessons/181853) | [풀이]() | 정렬, 반복문, 배열 |    
+|  126  | [배열의 길이에 따라 다른 연산하기](https://school.programmers.co.kr/learn/courses/30/lessons/181854) | [풀이]() | 배열, 반복문, 조건문 |    
+|  127  | [문자열 묶기](https://school.programmers.co.kr/learn/courses/30/lessons/181855) | [풀이]() | 해시, 반복문 |    
+|  128  | [배열 비교하기](https://school.programmers.co.kr/learn/courses/30/lessons/181856) | [풀이]() | 조건문, 배열,  삼항연산자 |    
+|  129  | **[배열의 길이를 2의 거듭제곱으로 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/181857) | [풀이]() | 반복문, 거듭제곱, 조건문 |    
+|  130  | **[무작위로 K개의 수 뽑기](https://school.programmers.co.kr/learn/courses/30/lessons/181858) | [풀이]() | 해시, 반복문, 조건문 |    
 |  131  | [배열 만들기 6](https://school.programmers.co.kr/learn/courses/30/lessons/181859) | [풀이]() | 배열 |    
 |  132  | [빈 배열에 추가, 삭제하기](https://school.programmers.co.kr/learn/courses/30/lessons/181860) | [풀이]() | 배열, erase |    
 |  133  | [배열의 원소만큼 추가하기](https://school.programmers.co.kr/learn/courses/30/lessons/181861) | [풀이]() | 배열 |    
