@@ -15,7 +15,7 @@
 |  11  | [나머지 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/120810) | [풀이]() | 연산자 |    
 |  12  | [중앙값 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/120811) | [풀이]() | 정렬, 배열 |    
 |  13  | [최빈값 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/120812) | [풀이]() | 해시, 반복문 |    
-|  14  | [짝수는 싫어요](https://school.programmers.co.kr/learn/courses/30/lessons/120813) | [풀이]() |  |    
+|  14  | [짝수는 싫어요](https://school.programmers.co.kr/learn/courses/30/lessons/120813) | [풀이]() | 반복문, 조건문 |    
 |  15  | [피자 나눠 먹기 (1)](https://school.programmers.co.kr/learn/courses/30/lessons/120814) | [풀이]() | 연산자, 조건문 |    
 |  16  | [피자 나눠 먹기 (2)](https://school.programmers.co.kr/learn/courses/30/lessons/120815) | [풀이]() | 연산자, 조건문 |    
 |  17  | [피자 나눠 먹기 (3)](https://school.programmers.co.kr/learn/courses/30/lessons/120816) | [풀이]() | 연산자, 조건문 |    
@@ -57,16 +57,16 @@
 |  53  | [직사각형 넓이 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/120860) | [풀이]() | 정렬, 최대최소 |    
 |  54  | [캐릭터의 좌표](https://school.programmers.co.kr/learn/courses/30/lessons/120861) | [풀이]() | 반복문, 조건문, 배열 |    
 |  55  | [최댓값 만들기 (2)](https://school.programmers.co.kr/learn/courses/30/lessons/120862) | [풀이]() | 정렬, 최대 |    
-|  56  | [다항식 더하기](https://school.programmers.co.kr/learn/courses/30/lessons/120863) | [풀이]() |  |    
+|  56  | **[다항식 더하기](https://school.programmers.co.kr/learn/courses/30/lessons/120863) | [풀이]() | 문자열, stoi, to_string |    
 |  57  | [숨어있는 숫자의 덧셈(2)](https://school.programmers.co.kr/learn/courses/30/lessons/120864) | [풀이]() | 문자열, ascii, stoi |    
 |  58  | [안전지대](https://school.programmers.co.kr/learn/courses/30/lessons/120866) | [풀이]() | 2차원배열, 방향벡터 |    
 |  59  | [삼각형의 완성조건 (2)](https://school.programmers.co.kr/learn/courses/30/lessons/120868) | [풀이]() | 수학, 규칙찾기 |    
-|  60  | **[외계어 사전](https://school.programmers.co.kr/learn/courses/30/lessons/120869) | [풀이]() |  |    
+|  60  | **[외계어 사전](https://school.programmers.co.kr/learn/courses/30/lessons/120869) | [풀이]() | 문자열, 반복문, 조건문 |    
 |  61  | **[저주의 숫자 3](https://school.programmers.co.kr/learn/courses/30/lessons/120871) | [풀이]() | 반복문, 조건문, 문자열 |    
 |  62  | *[평행](https://school.programmers.co.kr/learn/courses/30/lessons/120875) | [풀이]() | 조건문, 정렬, 자료형 주의 |    
 |  63  | [겹치는 선분의 길이](https://school.programmers.co.kr/learn/courses/30/lessons/120876) | [풀이]() | 배열, 조건문, 반복문 |    
 |  64  | [유한소수 판별하기](https://school.programmers.co.kr/learn/courses/30/lessons/120878) | [풀이]() | 반복문, 최소공약수(gcd) |    
-|  65  | [특이한 정렬](https://school.programmers.co.kr/learn/courses/30/lessons/120880) | [풀이]() |  |    
+|  65  | *[특이한 정렬](https://school.programmers.co.kr/learn/courses/30/lessons/120880) | [풀이]() | 사용자정의 정렬, 배열,  |    
 |  66  | *[등수 매기기](https://school.programmers.co.kr/learn/courses/30/lessons/120882) | [풀이]() | 정렬, 중복제거, 배열, 반복문 |    
 |  67  | *[로그인 성공?](https://school.programmers.co.kr/learn/courses/30/lessons/120883) | [풀이]() | 반복문, 조건문 |    
 |  68  | [치킨 쿠폰](https://school.programmers.co.kr/learn/courses/30/lessons/120884) | [풀이]() | 반복문, 구현, 규칙찾기 |    
