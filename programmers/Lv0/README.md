@@ -82,16 +82,16 @@
 |  78  | [영어가 싫어요]() | [풀이]() |  |    
 |  79  | [인덱스 바꾸기]() | [풀이]() |  |    
 |  80  | [한 번만 등장한 문자]() | [풀이]() |  |    
-|  81  | [약수 구하기]() | [풀이]() |  |    
-|  82  | [편지]() | [풀이]() |  |    
-|  83  | [가장 큰 수 찾기]() | [풀이]() |  |    
-|  84  | [문자열 계산하기]() | [풀이]() |  |    
-|  85  | [배열의 유사도]() | [풀이]() |  |    
-|  86  | [숫자 찾기]() | [풀이]() |  |    
-|  87  | [n의 배수 고르기]() | [풀이]() |  |    
-|  88  | [자릿수 더하기]() | [풀이]() |  |    
-|  89  | [OX퀴즈]() | [풀이]() |  |    
-|  90  | [문자열안에 문자열]() | [풀이]() |  |    
+|  81  | [약수 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/120897) | [풀이]() | 반복문, 조건문 |    
+|  82  | [편지](https://school.programmers.co.kr/learn/courses/30/lessons/120898) | [풀이]() | 배열 길이 |    
+|  83  | [가장 큰 수 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/120899) | [풀이]() | 반복문, 조건문 |    
+|  84  | [문자열 계산하기](https://school.programmers.co.kr/learn/courses/30/lessons/120902) | [풀이]() | 문자열, 반복문, 조건문 |    
+|  85  | [배열의 유사도](https://school.programmers.co.kr/learn/courses/30/lessons/120903) | [풀이]() | 반복문, 조건문 |    
+|  86  | [숫자 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/120904) | [풀이]() | 문자열, ASCII, 반복문, 조건문 |    
+|  87  | [n의 배수 고르기](https://school.programmers.co.kr/learn/courses/30/lessons/120905) | [풀이]() | 배열, 조건문 |    
+|  88  | [자릿수 더하기](https://school.programmers.co.kr/learn/courses/30/lessons/120906) | [풀이]() | 반복문 |    
+|  89  | [OX퀴즈](https://school.programmers.co.kr/learn/courses/30/lessons/120907) | [풀이]() | 문자열, stringstream, 반복문, 조건문 |    
+|  90  | [문자열안에 문자열](https://school.programmers.co.kr/learn/courses/30/lessons/120908) | [풀이]() | 문자열, find |    
 |  91  | [제곱수 판별하기](https://school.programmers.co.kr/learn/courses/30/lessons/120909) | [풀이]() | 반복문 |    
 |  92  | [세균 증식](https://school.programmers.co.kr/learn/courses/30/lessons/120910) | [풀이]() | 반복문, 제곱 |    
 |  93  | [문자열 정렬하기 (2)](https://school.programmers.co.kr/learn/courses/30/lessons/120911) | [풀이]() | 정렬, 문자열 |    
