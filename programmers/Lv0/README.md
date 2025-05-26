@@ -62,16 +62,16 @@
 |  58  | [안전지대](https://school.programmers.co.kr/learn/courses/30/lessons/120866) | [풀이]() |  |    
 |  59  | [삼각형의 완성조건 (2)](https://school.programmers.co.kr/learn/courses/30/lessons/120868) | [풀이]() |  |    
 |  60  | [외계어 사전](https://school.programmers.co.kr/learn/courses/30/lessons/120869) | [풀이]() |  |    
-|  61  | [저주의 숫자 3]() | [풀이]() |  |    
-|  62  | [평행]() | [풀이]() |  |    
-|  63  | [겹치는 선분의 길이]() | [풀이]() |  |    
-|  64  | [유한소수 판별하기]() | [풀이]() |  |    
-|  65  | [특이한 정렬]() | [풀이]() |  |    
-|  66  | [등수 매기기]() | [풀이]() |  |    
-|  67  | [로그인 성공?]() | [풀이]() |  |    
-|  68  | [치킨 쿠폰]() | [풀이]() |  |    
-|  69  | [이진수 더하기]() | [풀이]() |  |    
-|  70  | [A로 B 만들기]() | [풀이]() |  |    
+|  61  | **[저주의 숫자 3](https://school.programmers.co.kr/learn/courses/30/lessons/120871) | [풀이]() | 반복문, 조건문, 문자열 |    
+|  62  | *[평행](https://school.programmers.co.kr/learn/courses/30/lessons/120875) | [풀이]() | 조건문, 정렬, 자료형 주의 |    
+|  63  | [겹치는 선분의 길이](https://school.programmers.co.kr/learn/courses/30/lessons/120876) | [풀이]() |  |    
+|  64  | [유한소수 판별하기](https://school.programmers.co.kr/learn/courses/30/lessons/120878) | [풀이]() |  |    
+|  65  | [특이한 정렬](https://school.programmers.co.kr/learn/courses/30/lessons/120880) | [풀이]() |  |    
+|  66  | *[등수 매기기](https://school.programmers.co.kr/learn/courses/30/lessons/120882) | [풀이]() |  |    
+|  67  | *[로그인 성공?](https://school.programmers.co.kr/learn/courses/30/lessons/120883) | [풀이]() | 반복문, 조건문 |    
+|  68  | [치킨 쿠폰](https://school.programmers.co.kr/learn/courses/30/lessons/120884) | [풀이]() | 반복문, 구현, 규칙찾기 |    
+|  69  | [이진수 더하기](https://school.programmers.co.kr/learn/courses/30/lessons/120885) | [풀이]() |  |    
+|  70  | [A로 B 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/120886) | [풀이]() | 배열, 정렬, 연산자 |    
 |  71  | [k의 개수](https://school.programmers.co.kr/learn/courses/30/lessons/120887) | [풀이]() | 문자열, 조건문 |    
 |  72  | [중복된 문자 제거](https://school.programmers.co.kr/learn/courses/30/lessons/120888) | [풀이]() | 해시, 문자열 |    
 |  73  | [삼각형의 완성조건 (1)](https://school.programmers.co.kr/learn/courses/30/lessons/120889) | [풀이]() | 정렬, 조건문 |    
