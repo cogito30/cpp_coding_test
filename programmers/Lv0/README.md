@@ -72,16 +72,16 @@
 |  68  | [치킨 쿠폰]() | [풀이]() |  |    
 |  69  | [이진수 더하기]() | [풀이]() |  |    
 |  70  | [A로 B 만들기]() | [풀이]() |  |    
-|  71  | [k의 개수]() | [풀이]() |  |    
-|  72  | [중복된 문자 제거]() | [풀이]() |  |    
-|  73  | [삼각형의 완성조건 (1)]() | [풀이]() |  |    
-|  74  | [가까운 수]() | [풀이]() |  |    
-|  75  | [369게임]() | [풀이]() |  |    
-|  76  | [암호 해독]() | [풀이]() |  |    
-|  77  | [대문자와 소문자]() | [풀이]() |  |    
-|  78  | [영어가 싫어요]() | [풀이]() |  |    
-|  79  | [인덱스 바꾸기]() | [풀이]() |  |    
-|  80  | [한 번만 등장한 문자]() | [풀이]() |  |    
+|  71  | [k의 개수](https://school.programmers.co.kr/learn/courses/30/lessons/120887) | [풀이]() | 문자열, 조건문 |    
+|  72  | [중복된 문자 제거](https://school.programmers.co.kr/learn/courses/30/lessons/120888) | [풀이]() | 해시, 문자열 |    
+|  73  | [삼각형의 완성조건 (1)](https://school.programmers.co.kr/learn/courses/30/lessons/120889) | [풀이]() | 정렬, 조건문 |    
+|  74  | [가까운 수](https://school.programmers.co.kr/learn/courses/30/lessons/120890) | [풀이]() | 구현 |    
+|  75  | [369게임](https://school.programmers.co.kr/learn/courses/30/lessons/120891) | [풀이]() | 반복문, 조건문 |    
+|  76  | [암호 해독](https://school.programmers.co.kr/learn/courses/30/lessons/120892) | [풀이]() | 문자열, 반복문, 조건문 |    
+|  77  | [대문자와 소문자](https://school.programmers.co.kr/learn/courses/30/lessons/120893) | [풀이]() | 문자열, 반복문, 조건문, tolower, islower |    
+|  78  | *[영어가 싫어요](https://school.programmers.co.kr/learn/courses/30/lessons/120894) | [풀이]() | 반복문, 문자열, substr |    
+|  79  | [인덱스 바꾸기](https://school.programmers.co.kr/learn/courses/30/lessons/120895) | [풀이]() | 자료형, 문자열 |    
+|  80  | [한 번만 등장한 문자](https://school.programmers.co.kr/learn/courses/30/lessons/120896) | [풀이]() | 해시, 반복문, ascii |    
 |  81  | [약수 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/120897) | [풀이]() | 반복문, 조건문 |    
 |  82  | [편지](https://school.programmers.co.kr/learn/courses/30/lessons/120898) | [풀이]() | 배열 길이 |    
 |  83  | [가장 큰 수 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/120899) | [풀이]() | 반복문, 조건문 |    
