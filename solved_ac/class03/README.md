@@ -24,7 +24,7 @@
 | 20  | [잃어버린 괄호](https://www.acmicpc.net/problem/1541) | [풀이]() | 문자열 파싱 |    
 | 21  | [최소 힙](https://www.acmicpc.net/problem/1927) | [풀이]() | priority_queue |    
 | 22  | [색종이 만들기](https://www.acmicpc.net/problem/2630) | [풀이]() |  |    
-| 23  | [나무 자르기](https://www.acmicpc.net/problem/2805) | [풀이]() | 이분 탐색 |    
+| 23  | *[나무 자르기](https://www.acmicpc.net/problem/2805) | [풀이]() | 이분 탐색, 자료형 |    
 | 24  | [최대 힙](https://www.acmicpc.net/problem/11279) | [풀이]() | priority_queue |    
 | 25  | [연결 요소의 개수](https://www.acmicpc.net/problem/11724) | [풀이]() |  |    
 | 26  | [마인크래프트](https://www.acmicpc.net/problem/18111) | [풀이]() |  |    
